@@ -78,6 +78,7 @@ Part of a family of curated, pay-once / privacy-first iOS app lists:
 - [Awesome iOS Privacy-First](https://github.com/alice51849/awesome-ios-privacy-first)
 - [Awesome iOS Health & Wellness](https://github.com/alice51849/awesome-ios-health-wellness)
 - [Awesome iOS Money & Budgeting](https://github.com/alice51849/awesome-ios-money-budgeting)
+- [Awesome iOS Productivity](https://github.com/alice51849/awesome-ios-productivity)
 
 For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://alice51849.github.io/ios-app-guide/)**.
 
