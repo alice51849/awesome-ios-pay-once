@@ -4,11 +4,14 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 
 > Why pay-once? You pay a single price, keep the app across reinstalls, and aren't billed monthly for a tool you use occasionally. Many of these also process your data on-device rather than in a cloud.
 
+> **Disclosure:** This list is maintained by Lumi Studio, developer of the Lumi Studio apps named below. Entries are factual and non-ranked; other developers' apps are included for context.
+
 ## Contents
 
 - [Photo & Media](#photo--media)
 - [Documents & Work](#documents--work)
 - [Money & Travel](#money--travel)
+- [Language Learning](#language-learning)
 - [Health & Lifestyle](#health--lifestyle)
 - [Kids & Learning](#kids--learning)
 - [Notes](#notes)
@@ -41,6 +44,12 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 - [G+Money](https://apps.apple.com/app/id6755782939) - Multi-currency, offline expense tracker organized by trip; no bank linking, CSV export. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/gmoney.html)
 - [HoursTag](https://apps.apple.com/app/id6754218117) - Reframes any price as hours of work at your wage to curb impulse spending. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/hourstag.html)
 - [TripBee Pro](https://apps.apple.com/app/id6787754435) - Day-by-day trip itinerary planner that works offline; no account. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/tripbee.html)
+- [TripBee Lite](https://apps.apple.com/app/id6791299610) - Plan one complete journey free, then optionally unlock premium once; no account, ads, tracking, or subscription. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/tripbeelite.html)
+
+## Language Learning
+
+- [Wordmate](https://apps.apple.com/app/id6789917808) - Pay-once vocabulary practice across 44 languages with examples, a Home Screen widget, and Apple Watch support. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/wordmate.html)
+- [DailyMate](https://apps.apple.com/app/id6790418321) - Pay-once access to 8,400 practical phrases across 47 languages on iPhone, iPad, widgets, and Apple Watch. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/dailymate.html)
 
 ## Health & Lifestyle
 
@@ -60,7 +69,7 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 
 - "Pay-once" means the core app or its full unlock is a one-time purchase (non-consumable), not a subscription. Some apps have a free tier plus a single unlock — noted where relevant.
 - Always confirm current pricing on the App Store, as developers can change models.
-- In-depth guides link to an independent buying-guide site (Lumi Studio) with feature breakdowns and comparisons.
+- In-depth guides are publisher-authored first-party resources from Lumi Studio, the developer of the Lumi Studio apps listed here.
 
 ## Contributing
 
@@ -81,6 +90,7 @@ Part of a family of curated, pay-once / privacy-first iOS app lists:
 - [Awesome iOS Productivity](https://github.com/alice51849/awesome-ios-productivity)
 
 For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://alice51849.github.io/ios-app-guide/)**.
+You can also filter the complete live portfolio in the **[publisher-verified 28-app finder](https://alice51849.github.io/ios-app-guide/tools/private-pay-once-iphone-app-finder.html)**.
 
 ## License
 
