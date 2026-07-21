@@ -61,8 +61,14 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 
 - [Endless Alphabet](https://apps.apple.com/app/id591626572) - Vocabulary and letter-sound app, pay-once.
 - [Lumi Bopomofo](https://apps.apple.com/app/id6773017109) - Learn all 37 Zhuyin symbols through tracing, tone games, and blending; ad-free, no data collected. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lumibopomofo.html)
+- [Lumi Bopomofo Pro](https://apps.apple.com/app/id6775773117) - Paid-upfront Zhuyin phonics adventure for children; ad-free. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lumibopomofopro.html)
 - [Lumi Letters Lite](https://apps.apple.com/app/id6778748533) - Early letter and phonics practice inside a planet-building game; ad-free. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lumiletters.html)
+- [Lumi Letters Pro](https://apps.apple.com/app/id6778491147) - Paid-upfront forest journey through all 26 letters, phonics, reading, and writing; ad-free. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lumiletterspro.html)
 - [Lumi Math Planet](https://apps.apple.com/app/id6778269699) - Kids math with competition-style reasoning inside a space adventure; ad-free. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lumimath.html)
+- [Lumi Math Pro](https://apps.apple.com/app/id6776958488) - Paid-upfront competition-style math thinking inside a space adventure; ad-free. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lumimathpro.html)
+- [Lumi Mission Planet](https://apps.apple.com/app/id6779750237) - Child-friendly routines for brushing teeth, meals, and tidying; free to start with a one-time unlock and no ads. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lumimission.html)
+- [Lumi Mission Planet Pro](https://apps.apple.com/app/id6779745474) - Paid-upfront routines adventure for brushing teeth, meals, and tidying; ad-free. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lumimissionpro.html)
+- [Lumi Trip Planet](https://apps.apple.com/app/id6787193643) - Turns each family trip into a small space adventure; free to start with a one-time unlock and no ads. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/tripplanet.html)
 - [Lumi Weather](https://apps.apple.com/app/id6779552704) - Kid-friendly weather with what-to-wear and activity ideas for families. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lumiweather.html)
 
 ## Notes
