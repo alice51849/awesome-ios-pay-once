@@ -14,6 +14,7 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 - [Language Learning](#language-learning)
 - [Health & Lifestyle](#health--lifestyle)
 - [Kids & Learning](#kids--learning)
+- [Utilities & Diagnostics](#utilities--diagnostics)
 - [Notes](#notes)
 - [Contributing](#contributing)
 - [License](#license)
@@ -26,7 +27,9 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 - [Unblurry](https://apps.apple.com/app/id6782275018) - On-device AI sharpening and super-resolution for soft-focus and low-res photos. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/unblurry.html)
 - [PhotoCream](https://apps.apple.com/app/id6781808054) - 100+ film-inspired looks with adjustable grain, halation, and light leaks; batch export. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/photocream.html)
 - [Snapport](https://apps.apple.com/app/id6780575828) - Make compliant passport and ID photos at home with country-specific templates. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/snapport.html)
-- [Zafe](https://apps.apple.com/app/id6787344033) - Face ID-locked private photo vault; everything stays on your device. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/zafe.html)
+- [Snapport Lite](https://apps.apple.com/app/id6792856304) - Lumi Studio free-to-start passport, ID and visa photo maker that works offline. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/snapportlite.html)
+- [ShotInbox AI](https://apps.apple.com/app/id6802166527) - Lumi Studio screenshot organizer that sorts and files the screenshots piling up in your camera roll; free to start. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/shotinbox.html)
+- [Mask My File](https://apps.apple.com/app/id6792850916) - Lumi Studio tool that finds private details in a file before you share it, so you can mask them and keep the rest readable. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/maskmyfile.html)
 
 ## Documents & Work
 
@@ -37,6 +40,10 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 - [Sono Note](https://apps.apple.com/us/app/id6782139553?pt=118326163&ct=gh_aipo_en_us&mt=8) - On-device voice recording, transcription, summary, and action items. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/sononote.html)
 - [Mochi](https://apps.apple.com/us/app/id6785004775?pt=118326163&ct=gh_aipo_en_us&mt=8) - Cute, cozy checklist with 100 skins and interactive widgets; free base, one-time unlock. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/mochi.html)
 - [LockHour Pro](https://apps.apple.com/us/app/id6780107485?pt=118326163&ct=gh_aipo_en_us&mt=8) - Timed hard-blocking of distracting apps via Apple Screen Time; Hard Mode prevents early exit. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lockhour.html)
+- [100 Notes Studio](https://apps.apple.com/app/id6798813048) - Lumi Studio offline notebook for handwriting, typed notes, PDF markup and page-attached audio, built around the iPad. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/notesstudio100.html)
+- [SaveTag](https://apps.apple.com/app/id6802505528) - Lumi Studio read-later manager for saving links now and actually getting back to them later. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/savetag.html)
+- [AI Brief](https://apps.apple.com/app/id6791658210) - Lumi Studio tool that gathers screenshots, PDFs and notes into one organized brief before you hand context to an AI assistant. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/aibriefpack.html)
+- [OnePage PPT](https://apps.apple.com/app/id6798814385) - Lumi Studio tool that condenses a wall of text into a single summary slide. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/onepageppt.html)
 
 ## Money & Travel
 
@@ -45,17 +52,25 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 - [HoursTag](https://apps.apple.com/app/id6754218117) - Reframes any price as hours of work at your wage to curb impulse spending. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/hourstag.html)
 - [TripBee Pro](https://apps.apple.com/us/app/id6787754435?pt=118326163&ct=gh_aipo_en_us&mt=8) - Day-by-day trip itinerary planner that works offline; no account. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/tripbee.html)
 - [TripBee Lite](https://apps.apple.com/us/app/id6791299610?pt=118326163&ct=gh_aipo_en_us&mt=8) - Plan one complete journey free, then optionally unlock premium once; no account, ads, tracking, or subscription. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/tripbeelite.html)
+- [G+Money Lite](https://apps.apple.com/app/id6793436548) - Lumi Studio travel expense tracker with currency conversion and saved offline rates; one trip free, one-time unlock for more. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/gmoneylite.html)
+- [HoursTag Lite](https://apps.apple.com/app/id6794039979) - Lumi Studio free-to-start companion to HoursTag that shows a purchase in hours of your work, on-device with no account. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/hourstaglite.html)
+- [MoneyTag: Income & Expense](https://apps.apple.com/app/id6801956402) - Lumi Studio project-based income and expense ledger with per-project results and cross-project tag analysis; on-device, no account. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/moneytag.html)
 
 ## Language Learning
 
 - [Wordmate](https://apps.apple.com/us/app/id6789917808?pt=118326163&ct=gh_aipo_en_us&mt=8) - Pay-once vocabulary practice across 44 languages with examples, a Home Screen widget, and Apple Watch support. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/wordmate.html)
 - [DailyMate](https://apps.apple.com/us/app/id6790418321?pt=118326163&ct=gh_aipo_en_us&mt=8) - Pay-once access to 8,400 practical phrases across 47 languages on iPhone, iPad, widgets, and Apple Watch. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/dailymate.html)
+- [Wordmate Lite](https://apps.apple.com/app/id6797601720) - Lumi Studio vocabulary app for five words a day in about a minute, without building decks; free to start. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/wordmatelite.html)
+- [DailyMate Lite](https://apps.apple.com/app/id6794725568) - Lumi Studio situational phrasebook with speaking practice across 50 languages; free to start with an optional one-time unlock. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/dailymatelite.html)
+- [Aim990](https://apps.apple.com/app/id6784974530) - Lumi Studio TOEIC L&R study planner with daily plans, weak-spot drills and score tracking; works offline. Independent study app, not affiliated with ETS, and no score is guaranteed. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/aim990.html)
+- [Aim990 Plus](https://apps.apple.com/app/id6792483140) - Lumi Studio paid trainer for timed, exam-style decision practice. Independent study app, not affiliated with ETS, and no score is guaranteed. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/aim990plus.html)
 
 ## Health & Lifestyle
 
 - [Streaks](https://apps.apple.com/app/id963034692) - Habit tracker sold as a one-time purchase.
 - [Cyca](https://apps.apple.com/us/app/id6782251621?pt=118326163&ct=gh_aipo_en_us&mt=8) - Private, on-device period and cycle tracker; no account, no cloud, no data sharing. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/cyca.html)
 - [Sereno](https://apps.apple.com/us/app/id6788236641?pt=118326163&ct=gh_aipo_en_us&mt=8) - Curated sleep and focus soundscapes with a per-layer mixer and sleep timer. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/sereno.html)
+- [Mochi DoneStamp](https://apps.apple.com/app/id6790800323) - Lumi Studio "when did I last…" tracker for chores and recurring household tasks like sheets, filters and backups. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/mochidonestamp.html)
 
 ## Kids & Learning
 
@@ -70,6 +85,13 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 - [Lumi Mission Planet Pro](https://apps.apple.com/us/app/id6779745474?pt=118326163&ct=gh_aipo_en_us&mt=8) - Paid-upfront routines adventure for brushing teeth, meals, and tidying; ad-free. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lumimissionpro.html)
 - [Trip Planet](https://apps.apple.com/us/app/id6787193643?pt=118326163&ct=gh_aipo_en_us&mt=8) - Turns each family trip into a small space adventure; free to start with a one-time unlock and no ads. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/tripplanet.html)
 - [Lumi Weather](https://apps.apple.com/us/app/id6779552704?pt=118326163&ct=gh_aipo_en_us&mt=8) - Kid-friendly weather with what-to-wear and activity ideas for families. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lumiweather.html)
+
+## Utilities & Diagnostics
+
+- [CalDaily](https://apps.apple.com/app/id6794178671) - Lumi Studio calculator that keeps a named, tagged history of your calculations, plus tip, split, discount and tax tools. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/caldaily.html)
+- [WiFi Aid](https://apps.apple.com/app/id6790467886) - Lumi Studio network diagnostic that runs independent path, DNS, TCP, TLS, timing and signal checks to point at the likely problem. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/wifiaid.html)
+- [WiFi Aid Lite](https://apps.apple.com/app/id6793414462) - Lumi Studio free-to-start network diagnostics with one complete free use per tool and an optional one-time unlock; no ads or tracking. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/wifiaidlite.html)
+- [BattAI](https://apps.apple.com/app/id6802423998) - Lumi Studio battery health app with a health report and time-to-80% charging estimates; free to start. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/battai.html)
 
 ## Notes
 
