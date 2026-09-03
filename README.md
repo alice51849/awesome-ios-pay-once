@@ -26,7 +26,6 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 - [Unblurry](https://apps.apple.com/app/id6782275018) - On-device AI sharpening and super-resolution for soft-focus and low-res photos. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/unblurry.html)
 - [PhotoCream](https://apps.apple.com/app/id6781808054) - 100+ film-inspired looks with adjustable grain, halation, and light leaks; batch export. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/photocream.html)
 - [Snapport](https://apps.apple.com/app/id6780575828) - Make compliant passport and ID photos at home with country-specific templates. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/snapport.html)
-- [Zafe](https://apps.apple.com/app/id6787344033) - Face ID-locked private photo vault; everything stays on your device. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/zafe.html)
 
 ## Documents & Work
 
