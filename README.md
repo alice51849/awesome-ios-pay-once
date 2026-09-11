@@ -10,6 +10,7 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 
 - [Photo & Media](#photo--media)
 - [Documents & Work](#documents--work)
+- [Files & Archives](#files--archives)
 - [Money & Travel](#money--travel)
 - [Language Learning](#language-learning)
 - [Health & Lifestyle](#health--lifestyle)
@@ -44,6 +45,10 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 - [SaveTag](https://apps.apple.com/app/id6802505528) - Lumi Studio read-later manager for saving links now and actually getting back to them later. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/savetag.html)
 - [AI Brief](https://apps.apple.com/app/id6791658210) - Lumi Studio tool that gathers screenshots, PDFs and notes into one organized brief before you hand context to an AI assistant. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/aibriefpack.html)
 - [OnePage PPT](https://apps.apple.com/app/id6798814385) - Lumi Studio tool that condenses a wall of text into a single summary slide. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/onepageppt.html)
+
+## Files & Archives
+
+- [Zipbox: Unzip RAR, ZIP & 7z](https://apps.apple.com/us/app/id6806776579?pt=118326163&ct=gh_aipo_zipbox&mt=8) - Lumi Studio archive utility sold as a paid download: one purchase includes every feature, with no in-app purchases, subscriptions or ads, according to its App Store description. Opens ZIP, RAR and 7z and creates ZIP/7z on-device. Check the App Store for current local pricing. · [publisher-authored guide](https://open.cait518.cc/ios-app-guide/hubs/zipbox.html)
 
 ## Money & Travel
 
