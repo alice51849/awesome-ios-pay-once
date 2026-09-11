@@ -12,7 +12,8 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter, defaultdict
-from datetime import datetime
+from datetime import datetime, timezone
+from email.utils import format_datetime
 import hashlib
 import html
 import json
@@ -442,18 +443,101 @@ def render_hub(locale: str, ui: dict, apps: list[dict], copies: dict, site: str,
 """
 
 
+def feed_content(app: dict, copy: dict, ui: dict, proof: dict, locale: str,
+                 cta: str, site: str) -> tuple[str, str]:
+    """Render one trusted article into reader HTML and a plain-text fallback."""
+    cta = store_url({"app_store_url": cta}, app, locale)
+    image = urlsplit(proof["screenshot_url"])
+    require(image.scheme == "https" and image.netloc == "is1-ssl.mzstatic.com"
+            and image.path.startswith("/image/thumb/PurpleSource"),
+            "Feed evidence must use the verified public Apple image")
+    article_url = f"{site.rstrip('/')}/{guide_path(app, locale)}"
+    article = urlsplit(article_url)
+    require(article.scheme == "https" and bool(article.netloc)
+            and not article.query and not article.fragment,
+            "Feed article links must use the canonical HTTPS site")
+    require(len(proof["screenshot_dimensions"]) == 2
+            and all(type(value) is int and value > 0 for value in proof["screenshot_dimensions"]),
+            "Feed image dimensions must be positive integers")
+    e = html.escape
+    rich = [f'<article lang="{e(locale, quote=True)}">']
+    plain = []
+
+    def text_block(tag: str, text: str) -> None:
+        rich.append(f"<{tag}>{e(text)}</{tag}>")
+        plain.append(text)
+
+    def link(label: str, url: str) -> None:
+        rich.append(f'<p><a href="{e(url, quote=True)}">{e(label)}</a></p>')
+        plain.append(f"{label}\n{url}")
+
+    def listing(tag: str, values: list[str]) -> None:
+        rich.append(f"<{tag}>" + "".join(f"<li>{e(value)}</li>" for value in values) + f"</{tag}>")
+        plain.extend(values)
+
+    text_block("h2", copy["title"])
+    text_block("p", ui["disclosure"])
+    text_block("p", copy["buyer_job"])
+    text_block("h3", ui["result"])
+    text_block("p", copy["result"])
+    width, height = proof["screenshot_dimensions"]
+    rich.append(
+        f'<figure><img src="{e(proof["screenshot_url"], quote=True)}" '
+        f'width="{width}" height="{height}" referrerpolicy="no-referrer" '
+        f'alt="{e(copy["proof_caption"], quote=True)}">'
+        f'<figcaption>{e(ui["proof_badge"])}</figcaption></figure>'
+    )
+    plain.append(ui["proof_badge"])
+    text_block("p", copy["proof_caption"])
+    text_block("p", ui["proof_note"])
+    text_block("p", f'{ui["checked"]}: {proof["checked_at"][:10]} · {ui["version"]}: {proof["app_version"]}')
+    text_block("h3", ui["payment"])
+    text_block("p", copy["purchase_summary"])
+    text_block("p", payment(copy, ui))
+    model = "paid" if app["purchase_model"] == "paid_upfront" else "free"
+    link(ui[model + "_cta"], cta)
+    text_block("h3", ui["steps"])
+    listing("ol", copy["steps"])
+    text_block("h3", ui["limits"])
+    listing("ul", copy["limits"])
+    text_block("h3", ui["alternative"])
+    text_block("p", copy["alternative"])
+    text_block("h3", ui["faq"])
+    for item in faqs(app, copy, ui):
+        text_block("h4", item["q"])
+        text_block("p", item["a"])
+    link(copy["title"], article_url)
+    rich.append("</article>")
+    return "\n".join(rich), "\n\n".join(plain) + "\n"
+
+
+def feed_instant(value: str) -> datetime:
+    instant = datetime.fromisoformat(value)
+    require(instant.tzinfo is not None and instant.utcoffset() is not None,
+            "Feed publication dates must include a timezone")
+    return instant.astimezone(timezone.utc)
+
+
 def rss(locale: str, ui: dict, records: list[dict], site: str) -> str:
     x = xml_escape
+    selected = [row for row in records if row["language"] == locale]
+    require(bool(selected), "RSS needs at least one localized article")
+    require(len({row["id"] for row in selected}) == len(selected)
+            and len({row["url"] for row in selected}) == len(selected),
+            "Duplicate RSS GUID or article URL")
+    dates = [feed_instant(row["date_published"]) for row in selected]
     items = "".join(
         f"<item><title>{x(row['title'])}</title><link>{x(row['url'])}</link>"
-        f'<guid isPermaLink="true">{x(row["url"])}</guid>'
-        f"<description>{x(row['content_text'])}</description></item>"
-        for row in records if row["language"] == locale
+        f'<guid isPermaLink="true">{x(row["id"])}</guid>'
+        f"<pubDate>{format_datetime(date, usegmt=True)}</pubDate>"
+        f"<description>{x(row['content_html'])}</description></item>"
+        for row, date in zip(selected, dates)
     )
     return f"""<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
 <title>{x(ui["hub_title"])}</title><link>{site}/{ROOT}/{locale}/index.html</link>
 <description>{x(ui["disclosure"])}</description><language>{locale}</language>
+<lastBuildDate>{format_datetime(max(dates), usegmt=True)}</lastBuildDate>
 <atom:link href="{site}/{ROOT}/{locale}/feed.xml" rel="self" type="application/rss+xml"/>
 {items}</channel></rss>
 """
@@ -530,13 +614,19 @@ def build_outputs(pages: Path, *, data: Path = DATA, site: str = SITE,
                 original = (pages / app_page).read_text(encoding="utf-8")
                 require(f"id{app['app_store_id']}" in original, f"Wrong backlink target identity: {app_page}")
                 backlinks[app_page] = backlink(original, app, locale, copy, ui, site)
-            records.append({"id": url, "url": url, "title": copy["title"], "language": locale, "content_text": md})
+            content_html, content_text = feed_content(app, copy, ui, proof, locale, cta, site)
+            records.append({
+                "id": url, "url": url, "title": copy["title"], "language": locale,
+                "date_published": proof["checked_at"],
+                "content_html": content_html, "content_text": content_text,
+            })
             catalog_rows.append({
                 "app_key": key, "app_store_id": app["app_store_id"], "locale": locale,
                 "url": url, "app_store_url": cta, "purchase_model": app["purchase_model"],
                 "source_digest": source_digest, "proof_scope": evidence["scope"],
                 "traffic_scope": config["traffic_scope"], "excluded_intents": app["exclude_intents"],
                 "query_evidence": "editorial_candidate_not_measured",
+                "date_published": proof["checked_at"],
                 "evidence": proof, "measured_search_volume": None, "is_ranking": False,
             })
             if app["devto"] and locale == "en-US" and not standalone:
@@ -556,9 +646,7 @@ def build_outputs(pages: Path, *, data: Path = DATA, site: str = SITE,
     if not standalone:
         generated[DEVTO_QUEUE] = json_text(drafts)
     else:
-        generated["index.html"] = generated[f"{ROOT}/index.html"].replace(
-            f'href="{site}/{ROOT}/index.html"', f'href="{site}/index.html"'
-        )
+        generated["index.html"] = generated[f"{ROOT}/index.html"]
         generated[".nojekyll"] = ""
     generated[CATALOG] = json_text({
         "schema_version": 1, "source_digest": source_digest,
@@ -566,6 +654,7 @@ def build_outputs(pages: Path, *, data: Path = DATA, site: str = SITE,
         "baseline_preserved": config["baseline"],
         "locales": config["locales"], "app_count": len(apps), "record_count": len(catalog_rows),
         "publication_status": "not_asserted_by_generator",
+        "publication_date_source": "proof.checked_at",
         "publisher": "Lumi Studio", "items": catalog_rows,
     })
     generated[JSON_FEED] = json_text({
@@ -575,8 +664,7 @@ def build_outputs(pages: Path, *, data: Path = DATA, site: str = SITE,
         "description": "First-party authored guides; no independent rankings or measured conversion claims.",
         "items": records,
     })
-    locations = [path for path in generated if path.endswith(".html")
-                 and (path.startswith(ROOT + "/") or (standalone and path == "index.html"))]
+    locations = [path for path in generated if path.endswith(".html") and path.startswith(ROOT + "/")]
     generated[f"{ROOT}/sitemap.xml"] = (
         '<?xml version="1.0" encoding="utf-8"?>\n'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'

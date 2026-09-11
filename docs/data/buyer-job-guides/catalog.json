@@ -11,6 +11,7 @@
       "app_key": "gmoney",
       "app_store_id": "6755782939",
       "app_store_url": "https://apps.apple.com/us/app/id6755782939?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:10.758622+00:00",
       "evidence": {
         "app_store_id": "6755782939",
         "app_version": "2.1.10",
@@ -35,7 +36,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "paid_upfront",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/gmoney-reconcile-multi-currency-spending.html"
     },
@@ -43,6 +44,7 @@
       "app_key": "hourstag",
       "app_store_id": "6754218117",
       "app_store_url": "https://apps.apple.com/us/app/id6754218117?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:10.098240+00:00",
       "evidence": {
         "app_store_id": "6754218117",
         "app_version": "3.0.12",
@@ -67,7 +69,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "paid_upfront",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/hourstag-see-a-purchase-in-work-hours.html"
     },
@@ -75,6 +77,7 @@
       "app_key": "lumimath",
       "app_store_id": "6778269699",
       "app_store_url": "https://apps.apple.com/us/app/id6778269699?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:09.104664+00:00",
       "evidence": {
         "app_store_id": "6778269699",
         "app_version": "1.0.13",
@@ -99,7 +102,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "free_with_lifetime_unlock",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimath-choose-the-next-visual-math-practice.html"
     },
@@ -107,6 +110,7 @@
       "app_key": "lumibopomofopro",
       "app_store_id": "6775773117",
       "app_store_url": "https://apps.apple.com/us/app/id6775773117?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:09.383859+00:00",
       "evidence": {
         "app_store_id": "6775773117",
         "app_version": "1.0.18",
@@ -131,7 +135,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "paid_upfront",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumibopomofopro-listen-and-trace-zhuyin-at-home.html"
     },
@@ -139,6 +143,7 @@
       "app_key": "lumimissionpro",
       "app_store_id": "6779745474",
       "app_store_url": "https://apps.apple.com/us/app/id6779745474?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:09.880677+00:00",
       "evidence": {
         "app_store_id": "6779745474",
         "app_version": "1.0.7",
@@ -163,7 +168,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "paid_upfront",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimissionpro-keep-a-visible-family-routine-record.html"
     },
@@ -171,6 +176,7 @@
       "app_key": "tripplanet",
       "app_store_id": "6787193643",
       "app_store_url": "https://apps.apple.com/us/app/id6787193643?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:11.715135+00:00",
       "evidence": {
         "app_store_id": "6787193643",
         "app_version": "1.0.1",
@@ -195,7 +201,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "free_with_lifetime_unlock",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/tripplanet-give-airport-waiting-a-small-mission.html"
     },
@@ -203,6 +209,7 @@
       "app_key": "photocream",
       "app_store_id": "6781808054",
       "app_store_url": "https://apps.apple.com/us/app/id6781808054?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:11.074604+00:00",
       "evidence": {
         "app_store_id": "6781808054",
         "app_version": "1.0.7",
@@ -227,7 +234,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "free_with_lifetime_unlock",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/photocream-preview-a-consistent-photo-color-style.html"
     },
@@ -235,6 +242,7 @@
       "app_key": "maskmyfile",
       "app_store_id": "6792850916",
       "app_store_url": "https://apps.apple.com/us/app/id6792850916?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:13.278504+00:00",
       "evidence": {
         "app_store_id": "6792850916",
         "app_version": "1.0.3",
@@ -259,7 +267,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "free_with_lifetime_unlock",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/maskmyfile-verify-a-redacted-client-file-before-sharing.html"
     },
@@ -267,6 +275,7 @@
       "app_key": "caldaily",
       "app_store_id": "6794178671",
       "app_store_url": "https://apps.apple.com/us/app/id6794178671?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:14.142411+00:00",
       "evidence": {
         "app_store_id": "6794178671",
         "app_version": "1.0.2",
@@ -291,7 +300,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "free_with_lifetime_unlock",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/caldaily-remember-what-a-bill-split-result-means.html"
     },
@@ -299,6 +308,7 @@
       "app_key": "gmoney",
       "app_store_id": "6755782939",
       "app_store_url": "https://apps.apple.com/tw/app/id6755782939?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:21.818815+00:00",
       "evidence": {
         "app_store_id": "6755782939",
         "app_version": "2.1.10",
@@ -323,7 +333,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "paid_upfront",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/gmoney-reconcile-multi-currency-spending.html"
     },
@@ -331,6 +341,7 @@
       "app_key": "hourstag",
       "app_store_id": "6754218117",
       "app_store_url": "https://apps.apple.com/tw/app/id6754218117?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:19.848577+00:00",
       "evidence": {
         "app_store_id": "6754218117",
         "app_version": "3.0.12",
@@ -355,7 +366,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "paid_upfront",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/hourstag-see-a-purchase-in-work-hours.html"
     },
@@ -363,6 +374,7 @@
       "app_key": "lumimath",
       "app_store_id": "6778269699",
       "app_store_url": "https://apps.apple.com/tw/app/id6778269699?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:16.142977+00:00",
       "evidence": {
         "app_store_id": "6778269699",
         "app_version": "1.0.13",
@@ -387,7 +399,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "free_with_lifetime_unlock",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimath-choose-the-next-visual-math-practice.html"
     },
@@ -395,6 +407,7 @@
       "app_key": "lumibopomofopro",
       "app_store_id": "6775773117",
       "app_store_url": "https://apps.apple.com/tw/app/id6775773117?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:17.812809+00:00",
       "evidence": {
         "app_store_id": "6775773117",
         "app_version": "1.0.18",
@@ -419,7 +432,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "paid_upfront",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumibopomofopro-listen-and-trace-zhuyin-at-home.html"
     },
@@ -427,6 +440,7 @@
       "app_key": "lumimissionpro",
       "app_store_id": "6779745474",
       "app_store_url": "https://apps.apple.com/tw/app/id6779745474?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:19.440934+00:00",
       "evidence": {
         "app_store_id": "6779745474",
         "app_version": "1.0.7",
@@ -451,7 +465,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "paid_upfront",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimissionpro-keep-a-visible-family-routine-record.html"
     },
@@ -459,6 +473,7 @@
       "app_key": "tripplanet",
       "app_store_id": "6787193643",
       "app_store_url": "https://apps.apple.com/tw/app/id6787193643?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:24.315061+00:00",
       "evidence": {
         "app_store_id": "6787193643",
         "app_version": "1.0.1",
@@ -483,7 +498,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "free_with_lifetime_unlock",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/tripplanet-give-airport-waiting-a-small-mission.html"
     },
@@ -491,6 +506,7 @@
       "app_key": "photocream",
       "app_store_id": "6781808054",
       "app_store_url": "https://apps.apple.com/tw/app/id6781808054?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:22.527716+00:00",
       "evidence": {
         "app_store_id": "6781808054",
         "app_version": "1.0.7",
@@ -515,7 +531,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "free_with_lifetime_unlock",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/photocream-preview-a-consistent-photo-color-style.html"
     },
@@ -523,6 +539,7 @@
       "app_key": "maskmyfile",
       "app_store_id": "6792850916",
       "app_store_url": "https://apps.apple.com/tw/app/id6792850916?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:27.445506+00:00",
       "evidence": {
         "app_store_id": "6792850916",
         "app_version": "1.0.3",
@@ -547,7 +564,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "free_with_lifetime_unlock",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/maskmyfile-verify-a-redacted-client-file-before-sharing.html"
     },
@@ -555,6 +572,7 @@
       "app_key": "caldaily",
       "app_store_id": "6794178671",
       "app_store_url": "https://apps.apple.com/tw/app/id6794178671?pt=118326163&ct=geo_pick&mt=8",
+      "date_published": "2026-09-11T02:58:28.211379+00:00",
       "evidence": {
         "app_store_id": "6794178671",
         "app_version": "1.0.2",
@@ -579,7 +597,7 @@
       "proof_scope": "published_app_store_interface_only",
       "purchase_model": "free_with_lifetime_unlock",
       "query_evidence": "editorial_candidate_not_measured",
-      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
       "traffic_scope": "buyer_decision_only",
       "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/caldaily-remember-what-a-bill-split-result-means.html"
     }
@@ -588,11 +606,12 @@
     "en-US",
     "zh-Hant"
   ],
+  "publication_date_source": "proof.checked_at",
   "publication_status": "not_asserted_by_generator",
   "publisher": "Lumi Studio",
   "record_count": 18,
   "schema_version": 1,
   "scope": "additive_first_party_buyer_jobs",
-  "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+  "source_digest": "b976323f60fc8496dee9d609c7ff6cea82f7faacc3c29af46469087a066cb5a2",
   "traffic_scope": "buyer_decision_only"
 }
