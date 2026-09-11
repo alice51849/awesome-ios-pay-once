@@ -3,6 +3,14 @@
 
 # best simple to do list app iphone no subscription
 
+<!--buyer-decision-guides-->
+## Before you buy or unlock, inspect the result
+
+App-specific buying decisions for 9 apps: published result examples first, paid downloads separated from free-core/one-time-unlock apps, with no hardcoded prices, invented rankings, or search-volume claims. Written by the developer, Lumi Studio, not an independent reviewer.
+
+[English buying guides](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/index.html) · [English RSS](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/feed.xml)
+<!--/buyer-decision-guides-->
+
 A first-party catalog of who each app is designed for, the task they are trying to complete, and the direct App Store path.
 
 > **First-party publisher catalog**

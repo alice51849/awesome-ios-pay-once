@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "scope": "published_app_store_interface_only",
+  "lookup_receipts": {
+    "en-US": {
+      "method": "GET",
+      "url": "https://itunes.apple.com/lookup?id=6778269699%2C6775773117%2C6779745474%2C6754218117%2C6755782939%2C6781808054%2C6787193643%2C6792850916%2C6794178671&country=us&lang=en_us&entity=software",
+      "final_url": "https://itunes.apple.com/lookup?id=6778269699%2C6775773117%2C6779745474%2C6754218117%2C6755782939%2C6781808054%2C6787193643%2C6792850916%2C6794178671&country=us&lang=en_us&entity=software",
+      "http_status": 200,
+      "sha256": "81743234c28ec11a8a0a9be907cfa36375bf1754f392df8efcd7df673aba6625",
+      "checked_at": "2026-09-11T02:53:15.544164+00:00",
+      "result_count": 9
+    },
+    "zh-Hant": {
+      "method": "GET",
+      "url": "https://itunes.apple.com/lookup?id=6778269699%2C6775773117%2C6779745474%2C6754218117%2C6755782939%2C6781808054%2C6787193643%2C6792850916%2C6794178671&country=tw&lang=zh_tw&entity=software",
+      "final_url": "https://itunes.apple.com/lookup?id=6778269699%2C6775773117%2C6779745474%2C6754218117%2C6755782939%2C6781808054%2C6787193643%2C6792850916%2C6794178671&country=tw&lang=zh_tw&entity=software",
+      "http_status": 200,
+      "sha256": "ebd7b1c63d0a0021b2127e6000a0db5a259d5cb3b28f944c54c3cf073eb5b623",
+      "checked_at": "2026-09-11T02:53:16.150032+00:00",
+      "result_count": 9
+    }
+  },
+  "apps": {
+    "gmoney": {
+      "en-US": {
+        "app_store_id": "6755782939",
+        "app_version": "2.1.10",
+        "download_is_free": false,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/76/50/ba76500d-2dad-fa7d-aa13-cb6611206225/01.png/320x480bb.jpg",
+        "screenshot_sha256": "d0d38b1d35a41852f94e07d2febc342c806f24ff7bb5e8d3e33c9604b92d97e3",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 2,
+        "checked_at": "2026-09-11T02:58:10.758622+00:00"
+      },
+      "zh-Hant": {
+        "app_store_id": "6755782939",
+        "app_version": "2.1.10",
+        "download_is_free": false,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/e3/65/2de365f8-1001-d101-9e0f-984702bdacab/01.png/320x480bb.jpg",
+        "screenshot_sha256": "9a925123d4094159a5f1ad4c5b018cf9b48a5e4a47638ee47fae259c134541b8",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 2,
+        "checked_at": "2026-09-11T02:58:21.818815+00:00"
+      }
+    },
+    "hourstag": {
+      "en-US": {
+        "app_store_id": "6754218117",
+        "app_version": "3.0.12",
+        "download_is_free": false,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/dc/8e/a1dc8eb1-3e9c-8f75-7ea8-2acf0f16fd4e/00.png/320x480bb.jpg",
+        "screenshot_sha256": "b60a0e84e6731b944e153641b808ca0b8fae2c71b9104e0127f2830968b63c8d",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 1,
+        "checked_at": "2026-09-11T02:58:10.098240+00:00"
+      },
+      "zh-Hant": {
+        "app_store_id": "6754218117",
+        "app_version": "3.0.12",
+        "download_is_free": false,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/c5/85/5cc58548-c04b-fb66-f0af-badaa32bcad4/00.png/320x480bb.jpg",
+        "screenshot_sha256": "8e1952bd9aa9347a735571870057ff6d57e645c5a427af557c440a88bcd4ab70",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 1,
+        "checked_at": "2026-09-11T02:58:19.848577+00:00"
+      }
+    },
+    "lumimath": {
+      "en-US": {
+        "app_store_id": "6778269699",
+        "app_version": "1.0.13",
+        "download_is_free": true,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/10/86/ee108630-b38b-9519-15d9-d030ade27254/05.png/320x480bb.jpg",
+        "screenshot_sha256": "fa93abd0b1b3a768309ec1cb17da26f581c2436c519248fa6ef1e0bc784722a1",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 6,
+        "checked_at": "2026-09-11T02:58:09.104664+00:00"
+      },
+      "zh-Hant": {
+        "app_store_id": "6778269699",
+        "app_version": "1.0.13",
+        "download_is_free": true,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/a6/4f/cca64f82-137f-7b2e-de0e-a64f35376629/05.png/320x480bb.jpg",
+        "screenshot_sha256": "3dde19ace244773cb03b5902a94469d27cbcb761aca8dd29848fe95259c06fef",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 6,
+        "checked_at": "2026-09-11T02:58:16.142977+00:00"
+      }
+    },
+    "lumibopomofopro": {
+      "en-US": {
+        "app_store_id": "6775773117",
+        "app_version": "1.0.18",
+        "download_is_free": false,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/4e/e5/f34ee546-8a7a-e18b-6fd7-ca82bcba5876/04.png/320x480bb.jpg",
+        "screenshot_sha256": "c1645a433025487c26f55b5f9972263ab017c16009e456c3f2d9cbc3fa073be7",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 5,
+        "checked_at": "2026-09-11T02:58:09.383859+00:00"
+      },
+      "zh-Hant": {
+        "app_store_id": "6775773117",
+        "app_version": "1.0.18",
+        "download_is_free": false,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/bd/b2/56bdb2fb-1bc3-95df-a417-2efb6e693b5e/04.png/320x480bb.jpg",
+        "screenshot_sha256": "e7fb7b9c4c842ecf970ccffb6ad428e3bbb79420184f235d9c3eda877c15db33",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 5,
+        "checked_at": "2026-09-11T02:58:17.812809+00:00"
+      }
+    },
+    "lumimissionpro": {
+      "en-US": {
+        "app_store_id": "6779745474",
+        "app_version": "1.0.7",
+        "download_is_free": false,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/22/c3/1e22c396-802a-62f3-ab21-ed98793bc0e6/02.png/320x480bb.jpg",
+        "screenshot_sha256": "c4ec7d78c5a62f1eb2df18ab1c79cbe685eb9eab72152dc2f80c7dad3b9330c6",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 3,
+        "checked_at": "2026-09-11T02:58:09.880677+00:00"
+      },
+      "zh-Hant": {
+        "app_store_id": "6779745474",
+        "app_version": "1.0.7",
+        "download_is_free": false,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/c6/46/15c646aa-00ea-790b-0209-cfe880172006/02.png/320x480bb.jpg",
+        "screenshot_sha256": "77f59bf247897083129aecbb9547b0bc5356f3268366515ce9940eb22cb78f1f",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 3,
+        "checked_at": "2026-09-11T02:58:19.440934+00:00"
+      }
+    },
+    "tripplanet": {
+      "en-US": {
+        "app_store_id": "6787193643",
+        "app_version": "1.0.1",
+        "download_is_free": true,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/89/c9/2589c94d-20fd-bcc8-464e-8a2f567f70da/01.png/320x480bb.jpg",
+        "screenshot_sha256": "8208880ce98e697624a65ae59872771d27e887d2860c28f4eab1094bbd73b7b3",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 2,
+        "checked_at": "2026-09-11T02:58:11.715135+00:00"
+      },
+      "zh-Hant": {
+        "app_store_id": "6787193643",
+        "app_version": "1.0.1",
+        "download_is_free": true,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/ea/24/e4ea24d3-bfc8-b2c6-1a36-621fadab4dfa/01.png/320x480bb.jpg",
+        "screenshot_sha256": "69b6b15bf3c2cd723a95b41a63adf4799068dfa40a4f4d7f1cece6ebac184e94",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 2,
+        "checked_at": "2026-09-11T02:58:24.315061+00:00"
+      }
+    },
+    "photocream": {
+      "en-US": {
+        "app_store_id": "6781808054",
+        "app_version": "1.0.7",
+        "download_is_free": true,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/6b/b5/fa6bb587-57be-4cc2-5d7e-5c76e591282e/03_color.png/320x480bb.jpg",
+        "screenshot_sha256": "43a101675a5322c8b1f48503fa1aacfda866607304521e8833bb5ad6e6a0a633",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 3,
+        "checked_at": "2026-09-11T02:58:11.074604+00:00"
+      },
+      "zh-Hant": {
+        "app_store_id": "6781808054",
+        "app_version": "1.0.7",
+        "download_is_free": true,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/9c/30/0e9c30cf-aa53-b842-9d15-a2f511e79fb4/03_color.png/320x480bb.jpg",
+        "screenshot_sha256": "954aaf494077da091a98e4eb256d499fe7e703f3557a2cc31fb47ab496111b0c",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 3,
+        "checked_at": "2026-09-11T02:58:22.527716+00:00"
+      }
+    },
+    "maskmyfile": {
+      "en-US": {
+        "app_store_id": "6792850916",
+        "app_version": "1.0.3",
+        "download_is_free": true,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/97/04/b19704d7-9cd7-38a5-fcb5-c596e682a47e/06-verified-output.png/320x480bb.jpg",
+        "screenshot_sha256": "843e7aad3dca13383890a8688488efcb917103cd039ecf5891b7d73de17c2a45",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 6,
+        "checked_at": "2026-09-11T02:58:13.278504+00:00"
+      },
+      "zh-Hant": {
+        "app_store_id": "6792850916",
+        "app_version": "1.0.3",
+        "download_is_free": true,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/b5/a4/1bb5a416-1059-1f11-de07-537778df5cae/06-verified-output.png/320x480bb.jpg",
+        "screenshot_sha256": "5951c0474481400cd5ee63f6a91add6b3839c47b93e22bd4b69afd0c083c2f94",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 6,
+        "checked_at": "2026-09-11T02:58:27.445506+00:00"
+      }
+    },
+    "caldaily": {
+      "en-US": {
+        "app_store_id": "6794178671",
+        "app_version": "1.0.2",
+        "download_is_free": true,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/07/a1/fa07a1d0-046e-7c0b-f291-2e95794cfc53/05.jpg/320x480bb.jpg",
+        "screenshot_sha256": "3d44872d28ab3f88e59622659fc5d52cd661fee21ecc069b737e2314002845f6",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 5,
+        "checked_at": "2026-09-11T02:58:14.142411+00:00"
+      },
+      "zh-Hant": {
+        "app_store_id": "6794178671",
+        "app_version": "1.0.2",
+        "download_is_free": true,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/d6/1a/5cd61a15-ff94-ecf3-677c-354ba67846c8/05.jpg/320x480bb.jpg",
+        "screenshot_sha256": "6c29611b59806961e234aa06cfdf204f08f2c3ec522f84d1ab6a452fe485c2a7",
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_slot": 5,
+        "checked_at": "2026-09-11T02:58:28.211379+00:00"
+      }
+    }
+  }
+}

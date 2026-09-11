@@ -1,0 +1,598 @@
+{
+  "app_count": 9,
+  "baseline_preserved": {
+    "app_count": 47,
+    "free_with_lifetime_unlock": 34,
+    "locale_count": 50,
+    "paid_upfront": 13
+  },
+  "items": [
+    {
+      "app_key": "gmoney",
+      "app_store_id": "6755782939",
+      "app_store_url": "https://apps.apple.com/us/app/id6755782939?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6755782939",
+        "app_version": "2.1.10",
+        "checked_at": "2026-09-11T02:58:10.758622+00:00",
+        "download_is_free": false,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "d0d38b1d35a41852f94e07d2febc342c806f24ff7bb5e8d3e33c9604b92d97e3",
+        "screenshot_slot": 2,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/76/50/ba76500d-2dad-fa7d-aa13-cb6611206225/01.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "currency_rates_today",
+        "general_budget_advice",
+        "free_currency_calculator"
+      ],
+      "is_ranking": false,
+      "locale": "en-US",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "paid_upfront",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/gmoney-reconcile-multi-currency-spending.html"
+    },
+    {
+      "app_key": "hourstag",
+      "app_store_id": "6754218117",
+      "app_store_url": "https://apps.apple.com/us/app/id6754218117?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6754218117",
+        "app_version": "3.0.12",
+        "checked_at": "2026-09-11T02:58:10.098240+00:00",
+        "download_is_free": false,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "b60a0e84e6731b944e153641b808ca0b8fae2c71b9104e0127f2830968b63c8d",
+        "screenshot_slot": 1,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/dc/8e/a1dc8eb1-3e9c-8f75-7ea8-2acf0f16fd4e/00.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "salary_statistics",
+        "payroll_calculator",
+        "generic_saving_advice"
+      ],
+      "is_ranking": false,
+      "locale": "en-US",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "paid_upfront",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/hourstag-see-a-purchase-in-work-hours.html"
+    },
+    {
+      "app_key": "lumimath",
+      "app_store_id": "6778269699",
+      "app_store_url": "https://apps.apple.com/us/app/id6778269699?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6778269699",
+        "app_version": "1.0.13",
+        "checked_at": "2026-09-11T02:58:09.104664+00:00",
+        "download_is_free": true,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "fa93abd0b1b3a768309ec1cb17da26f581c2436c519248fa6ef1e0bc784722a1",
+        "screenshot_slot": 6,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/10/86/ee108630-b38b-9519-15d9-d030ade27254/05.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "free_printable_worksheets",
+        "contest_answers",
+        "general_parenting_advice"
+      ],
+      "is_ranking": false,
+      "locale": "en-US",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "free_with_lifetime_unlock",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimath-choose-the-next-visual-math-practice.html"
+    },
+    {
+      "app_key": "lumibopomofopro",
+      "app_store_id": "6775773117",
+      "app_store_url": "https://apps.apple.com/us/app/id6775773117?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6775773117",
+        "app_version": "1.0.18",
+        "checked_at": "2026-09-11T02:58:09.383859+00:00",
+        "download_is_free": false,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "c1645a433025487c26f55b5f9972263ab017c16009e456c3f2d9cbc3fa073be7",
+        "screenshot_slot": 5,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/4e/e5/f34ee546-8a7a-e18b-6fd7-ca82bcba5876/04.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "free_zhuyin_chart",
+        "hanyu_pinyin_course",
+        "school_readiness_promises"
+      ],
+      "is_ranking": false,
+      "locale": "en-US",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "paid_upfront",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumibopomofopro-listen-and-trace-zhuyin-at-home.html"
+    },
+    {
+      "app_key": "lumimissionpro",
+      "app_store_id": "6779745474",
+      "app_store_url": "https://apps.apple.com/us/app/id6779745474?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6779745474",
+        "app_version": "1.0.7",
+        "checked_at": "2026-09-11T02:58:09.880677+00:00",
+        "download_is_free": false,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "c4ec7d78c5a62f1eb2df18ab1c79cbe685eb9eab72152dc2f80c7dad3b9330c6",
+        "screenshot_slot": 3,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/22/c3/1e22c396-802a-62f3-ab21-ed98793bc0e6/02.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "generic_chore_ideas",
+        "behaviour_treatment",
+        "printable_sticker_charts"
+      ],
+      "is_ranking": false,
+      "locale": "en-US",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "paid_upfront",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimissionpro-keep-a-visible-family-routine-record.html"
+    },
+    {
+      "app_key": "tripplanet",
+      "app_store_id": "6787193643",
+      "app_store_url": "https://apps.apple.com/us/app/id6787193643?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6787193643",
+        "app_version": "1.0.1",
+        "checked_at": "2026-09-11T02:58:11.715135+00:00",
+        "download_is_free": true,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "8208880ce98e697624a65ae59872771d27e887d2860c28f4eab1094bbd73b7b3",
+        "screenshot_slot": 2,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/89/c9/2589c94d-20fd-bcc8-464e-8a2f567f70da/01.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "free_airport_activities",
+        "flight_status",
+        "general_travel_advice"
+      ],
+      "is_ranking": false,
+      "locale": "en-US",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "free_with_lifetime_unlock",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/tripplanet-give-airport-waiting-a-small-mission.html"
+    },
+    {
+      "app_key": "photocream",
+      "app_store_id": "6781808054",
+      "app_store_url": "https://apps.apple.com/us/app/id6781808054?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6781808054",
+        "app_version": "1.0.7",
+        "checked_at": "2026-09-11T02:58:11.074604+00:00",
+        "download_is_free": true,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "43a101675a5322c8b1f48503fa1aacfda866607304521e8833bb5ad6e6a0a633",
+        "screenshot_slot": 3,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/6b/b5/fa6bb587-57be-4cc2-5d7e-5c76e591282e/03_color.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "free_wallpapers",
+        "general_photography_tips",
+        "unlimited_free_premium_exports"
+      ],
+      "is_ranking": false,
+      "locale": "en-US",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "free_with_lifetime_unlock",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/photocream-preview-a-consistent-photo-color-style.html"
+    },
+    {
+      "app_key": "maskmyfile",
+      "app_store_id": "6792850916",
+      "app_store_url": "https://apps.apple.com/us/app/id6792850916?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6792850916",
+        "app_version": "1.0.3",
+        "checked_at": "2026-09-11T02:58:13.278504+00:00",
+        "download_is_free": true,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "843e7aad3dca13383890a8688488efcb917103cd039ecf5891b7d73de17c2a45",
+        "screenshot_slot": 6,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/97/04/b19704d7-9cd7-38a5-fcb5-c596e682a47e/06-verified-output.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "generic_privacy_news",
+        "vpn_advice",
+        "compliance_certification"
+      ],
+      "is_ranking": false,
+      "locale": "en-US",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "free_with_lifetime_unlock",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/maskmyfile-verify-a-redacted-client-file-before-sharing.html"
+    },
+    {
+      "app_key": "caldaily",
+      "app_store_id": "6794178671",
+      "app_store_url": "https://apps.apple.com/us/app/id6794178671?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6794178671",
+        "app_version": "1.0.2",
+        "checked_at": "2026-09-11T02:58:14.142411+00:00",
+        "download_is_free": true,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "3d44872d28ab3f88e59622659fc5d52cd661fee21ecc069b737e2314002845f6",
+        "screenshot_slot": 5,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/07/a1/fa07a1d0-046e-7c0b-f291-2e95794cfc53/05.jpg/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "homework_answers",
+        "free_web_calculator",
+        "loan_advice"
+      ],
+      "is_ranking": false,
+      "locale": "en-US",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "free_with_lifetime_unlock",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/caldaily-remember-what-a-bill-split-result-means.html"
+    },
+    {
+      "app_key": "gmoney",
+      "app_store_id": "6755782939",
+      "app_store_url": "https://apps.apple.com/tw/app/id6755782939?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6755782939",
+        "app_version": "2.1.10",
+        "checked_at": "2026-09-11T02:58:21.818815+00:00",
+        "download_is_free": false,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "9a925123d4094159a5f1ad4c5b018cf9b48a5e4a47638ee47fae259c134541b8",
+        "screenshot_slot": 2,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/e3/65/2de365f8-1001-d101-9e0f-984702bdacab/01.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "currency_rates_today",
+        "general_budget_advice",
+        "free_currency_calculator"
+      ],
+      "is_ranking": false,
+      "locale": "zh-Hant",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "paid_upfront",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/gmoney-reconcile-multi-currency-spending.html"
+    },
+    {
+      "app_key": "hourstag",
+      "app_store_id": "6754218117",
+      "app_store_url": "https://apps.apple.com/tw/app/id6754218117?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6754218117",
+        "app_version": "3.0.12",
+        "checked_at": "2026-09-11T02:58:19.848577+00:00",
+        "download_is_free": false,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "8e1952bd9aa9347a735571870057ff6d57e645c5a427af557c440a88bcd4ab70",
+        "screenshot_slot": 1,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/c5/85/5cc58548-c04b-fb66-f0af-badaa32bcad4/00.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "salary_statistics",
+        "payroll_calculator",
+        "generic_saving_advice"
+      ],
+      "is_ranking": false,
+      "locale": "zh-Hant",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "paid_upfront",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/hourstag-see-a-purchase-in-work-hours.html"
+    },
+    {
+      "app_key": "lumimath",
+      "app_store_id": "6778269699",
+      "app_store_url": "https://apps.apple.com/tw/app/id6778269699?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6778269699",
+        "app_version": "1.0.13",
+        "checked_at": "2026-09-11T02:58:16.142977+00:00",
+        "download_is_free": true,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "3dde19ace244773cb03b5902a94469d27cbcb761aca8dd29848fe95259c06fef",
+        "screenshot_slot": 6,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/a6/4f/cca64f82-137f-7b2e-de0e-a64f35376629/05.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "free_printable_worksheets",
+        "contest_answers",
+        "general_parenting_advice"
+      ],
+      "is_ranking": false,
+      "locale": "zh-Hant",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "free_with_lifetime_unlock",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimath-choose-the-next-visual-math-practice.html"
+    },
+    {
+      "app_key": "lumibopomofopro",
+      "app_store_id": "6775773117",
+      "app_store_url": "https://apps.apple.com/tw/app/id6775773117?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6775773117",
+        "app_version": "1.0.18",
+        "checked_at": "2026-09-11T02:58:17.812809+00:00",
+        "download_is_free": false,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "e7fb7b9c4c842ecf970ccffb6ad428e3bbb79420184f235d9c3eda877c15db33",
+        "screenshot_slot": 5,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/bd/b2/56bdb2fb-1bc3-95df-a417-2efb6e693b5e/04.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "free_zhuyin_chart",
+        "hanyu_pinyin_course",
+        "school_readiness_promises"
+      ],
+      "is_ranking": false,
+      "locale": "zh-Hant",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "paid_upfront",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumibopomofopro-listen-and-trace-zhuyin-at-home.html"
+    },
+    {
+      "app_key": "lumimissionpro",
+      "app_store_id": "6779745474",
+      "app_store_url": "https://apps.apple.com/tw/app/id6779745474?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6779745474",
+        "app_version": "1.0.7",
+        "checked_at": "2026-09-11T02:58:19.440934+00:00",
+        "download_is_free": false,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "77f59bf247897083129aecbb9547b0bc5356f3268366515ce9940eb22cb78f1f",
+        "screenshot_slot": 3,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/c6/46/15c646aa-00ea-790b-0209-cfe880172006/02.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "generic_chore_ideas",
+        "behaviour_treatment",
+        "printable_sticker_charts"
+      ],
+      "is_ranking": false,
+      "locale": "zh-Hant",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "paid_upfront",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimissionpro-keep-a-visible-family-routine-record.html"
+    },
+    {
+      "app_key": "tripplanet",
+      "app_store_id": "6787193643",
+      "app_store_url": "https://apps.apple.com/tw/app/id6787193643?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6787193643",
+        "app_version": "1.0.1",
+        "checked_at": "2026-09-11T02:58:24.315061+00:00",
+        "download_is_free": true,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "69b6b15bf3c2cd723a95b41a63adf4799068dfa40a4f4d7f1cece6ebac184e94",
+        "screenshot_slot": 2,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/ea/24/e4ea24d3-bfc8-b2c6-1a36-621fadab4dfa/01.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "free_airport_activities",
+        "flight_status",
+        "general_travel_advice"
+      ],
+      "is_ranking": false,
+      "locale": "zh-Hant",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "free_with_lifetime_unlock",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/tripplanet-give-airport-waiting-a-small-mission.html"
+    },
+    {
+      "app_key": "photocream",
+      "app_store_id": "6781808054",
+      "app_store_url": "https://apps.apple.com/tw/app/id6781808054?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6781808054",
+        "app_version": "1.0.7",
+        "checked_at": "2026-09-11T02:58:22.527716+00:00",
+        "download_is_free": true,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "954aaf494077da091a98e4eb256d499fe7e703f3557a2cc31fb47ab496111b0c",
+        "screenshot_slot": 3,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/9c/30/0e9c30cf-aa53-b842-9d15-a2f511e79fb4/03_color.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "free_wallpapers",
+        "general_photography_tips",
+        "unlimited_free_premium_exports"
+      ],
+      "is_ranking": false,
+      "locale": "zh-Hant",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "free_with_lifetime_unlock",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/photocream-preview-a-consistent-photo-color-style.html"
+    },
+    {
+      "app_key": "maskmyfile",
+      "app_store_id": "6792850916",
+      "app_store_url": "https://apps.apple.com/tw/app/id6792850916?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6792850916",
+        "app_version": "1.0.3",
+        "checked_at": "2026-09-11T02:58:27.445506+00:00",
+        "download_is_free": true,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "5951c0474481400cd5ee63f6a91add6b3839c47b93e22bd4b69afd0c083c2f94",
+        "screenshot_slot": 6,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/b5/a4/1bb5a416-1059-1f11-de07-537778df5cae/06-verified-output.png/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "generic_privacy_news",
+        "vpn_advice",
+        "compliance_certification"
+      ],
+      "is_ranking": false,
+      "locale": "zh-Hant",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "free_with_lifetime_unlock",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/maskmyfile-verify-a-redacted-client-file-before-sharing.html"
+    },
+    {
+      "app_key": "caldaily",
+      "app_store_id": "6794178671",
+      "app_store_url": "https://apps.apple.com/tw/app/id6794178671?pt=118326163&ct=geo_pick&mt=8",
+      "evidence": {
+        "app_store_id": "6794178671",
+        "app_version": "1.0.2",
+        "checked_at": "2026-09-11T02:58:28.211379+00:00",
+        "download_is_free": true,
+        "screenshot_dimensions": [
+          221,
+          480
+        ],
+        "screenshot_sha256": "6c29611b59806961e234aa06cfdf204f08f2c3ec522f84d1ab6a452fe485c2a7",
+        "screenshot_slot": 5,
+        "screenshot_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/d6/1a/5cd61a15-ff94-ecf3-677c-354ba67846c8/05.jpg/320x480bb.jpg"
+      },
+      "excluded_intents": [
+        "homework_answers",
+        "free_web_calculator",
+        "loan_advice"
+      ],
+      "is_ranking": false,
+      "locale": "zh-Hant",
+      "measured_search_volume": null,
+      "proof_scope": "published_app_store_interface_only",
+      "purchase_model": "free_with_lifetime_unlock",
+      "query_evidence": "editorial_candidate_not_measured",
+      "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+      "traffic_scope": "buyer_decision_only",
+      "url": "https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/caldaily-remember-what-a-bill-split-result-means.html"
+    }
+  ],
+  "locales": [
+    "en-US",
+    "zh-Hant"
+  ],
+  "publication_status": "not_asserted_by_generator",
+  "publisher": "Lumi Studio",
+  "record_count": 18,
+  "schema_version": 1,
+  "scope": "additive_first_party_buyer_jobs",
+  "source_digest": "6bda800f71046dc73aaf945a32e42610ede4810d9ff3aa3cf4854ad0149b738e",
+  "traffic_scope": "buyer_decision_only"
+}

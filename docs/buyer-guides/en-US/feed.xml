@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+<title>Before you buy or unlock, inspect the app's result</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/index.html</link>
+<description>Published by Lumi Studio, the developer of these apps. This is a first-party guide, not an independent review or ranking. Screenshots are published App Store examples, not measured customer outcomes.</description><language>en-US</language>
+<atom:link href="https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/feed.xml" rel="self" type="application/rss+xml"/>
+<item><title>Buy G+Money for offline expense totals?</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/gmoney-reconcile-multi-currency-spending.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/gmoney-reconcile-multi-currency-spending.html</guid><description># Buy G+Money for offline expense totals?
+
+Published by Lumi Studio, the developer of these apps. This is a first-party guide, not an independent review or ranking. Screenshots are published App Store examples, not measured customer outcomes.
+
+Deciding whether G+Money's paid download can replace your multi-currency expense sheet? Inspect the category summary first.
+
+## What you can check
+
+A spending summary grouped by category or trip, expressed in your home currency so you can check where the money went.
+
+![Published interface evidence](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/76/50/ba76500d-2dad-fa7d-aa13-cb6611206225/01.png/320x480bb.jpg)
+
+Published App Store example; not a measured customer outcome.
+
+Evidence checked: 2026-09-11 · App version: 2.1.10
+
+## Before you buy
+
+Paid download. Currency conversion, expense totals and exports are included; no in-app upgrade.
+
+G+Money is a paid download. Currency conversion, expense categories, trip or event grouping, summaries, and text or CSV export are included; there is no later in-app unlock. No subscription. Current local pricing is shown by Apple; no fixed price is quoted here.
+
+[Buy this app on the App Store](https://apps.apple.com/us/app/id6755782939?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## A practical workflow
+
+1. Choose your home currency and check the rate you intend to use. A saved or manually entered rate can be used offline; fetching a new live rate needs a connection.
+
+2. Enter the original amount and currency, then assign a category. Add a trip or event tag when that context matters; leave ordinary daily spending unassigned.
+
+3. Review the category or trip subtotal against your receipts before exporting. Keep the original-currency amount and exchange-rate assumptions in mind when comparing totals.
+
+## Published interface evidence
+
+The published summary screen shows category totals and trip filters. It demonstrates the reporting interface, not a verified CSV export or bank reconciliation.
+
+App Store screenshot, not a downloadable output sample or an independent performance test.
+
+## Know the limits
+
+- This is manual expense tracking and currency conversion, not bank synchronization, tax preparation, or a financial recommendation.
+
+- Converted totals depend on the rate you select. They may differ from the final amount charged by your bank or card provider.
+
+## When a simpler option is enough
+
+A spreadsheet may be enough if you only need a short expense list and are comfortable maintaining currencies and categories yourself.
+
+## Before you decide
+
+### Can I keep recording expenses without mobile data?
+
+Yes. Recording and using saved or manual exchange rates work offline. Do not confuse that with receiving fresh market rates while disconnected.
+
+### Is this G+Money Lite?
+
+No. This guide links to the original paid G+Money, not the separate Lite app. The paid-download model on this page applies only to this App Store ID.
+
+### Where do I buy the right app?
+
+Use the App Store button on this page for G+Money. It is a paid download, with the included features available after purchase and no in-app unlock. Apple shows your storefront's current price before you confirm.
+
+## Related jobs, different decisions
+
+- [HoursTag paid download: prices in work hours](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/hourstag-see-a-purchase-in-work-hours.html)
+
+- [CalDaily Premium: what stays free?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/caldaily-remember-what-a-bill-split-result-means.html)
+
+[Buying guides](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/index.html)
+
+[Buy G+Money for offline expense totals?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/gmoney-reconcile-multi-currency-spending.html)
+</description></item><item><title>HoursTag paid download: prices in work hours</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/hourstag-see-a-purchase-in-work-hours.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/hourstag-see-a-purchase-in-work-hours.html</guid><description># HoursTag paid download: prices in work hours
+
+Published by Lumi Studio, the developer of these apps. This is a first-party guide, not an independent review or ranking. Screenshots are published App Store examples, not measured customer outcomes.
+
+Comparing HoursTag with a basic calculator? Check what the paid work-hour calculation and history workflow adds.
+
+## What you can check
+
+A price converted into work hours, with Need, Want, or Impulse tags and a history you can revisit.
+
+![Published interface evidence](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/dc/8e/a1dc8eb1-3e9c-8f75-7ea8-2acf0f16fd4e/00.png/320x480bb.jpg)
+
+Published App Store example; not a measured customer outcome.
+
+Evidence checked: 2026-09-11 · App version: 3.0.12
+
+## Before you buy
+
+Paid download. Work-hour calculations, tags, goals and history are included; no in-app upgrade.
+
+HoursTag is a paid download. Price-to-work-time calculations, spending tags, goals, history, and backup are included without an in-app upgrade. No subscription. Current local pricing is shown by Apple; no fixed price is quoted here.
+
+[Buy this app on the App Store](https://apps.apple.com/us/app/id6754218117?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## A practical workflow
+
+1. Set your hourly or monthly income in HoursTag. Check that the income assumptions reflect the comparison you want to make.
+
+2. Enter the proposed price and read the work-time equivalent. Treat it as one perspective on the decision, not an instruction to buy or avoid something.
+
+3. Label the item Need, Want, or Impulse and review the history later. A goal or wishlist can help you compare several purchases in the same unit.
+
+## Published interface evidence
+
+The published calculator screen displays a price as work hours. The numbers belong to the App Store example, not to a user's income or measured savings.
+
+App Store screenshot, not a downloadable output sample or an independent performance test.
+
+## Know the limits
+
+- HoursTag does not measure actual hours worked or replace payroll, a timesheet, or tax calculations.
+
+- The result depends on your income inputs and cannot decide whether an expense is necessary for you.
+
+## When a simpler option is enough
+
+A basic calculator can divide a price by an hourly amount. HoursTag is relevant when you also want tags, history, and goals around that comparison.
+
+## Before you decide
+
+### Does it automatically discover my income?
+
+No. You provide the income assumptions. That makes the result a personal comparison rather than a statement about your real payroll.
+
+### Does this link open HoursTag Lite?
+
+No. It opens the original HoursTag: Hours to Buy. This guide does not describe the separate Lite app's free allowance or workflow.
+
+### Where do I buy the right app?
+
+Use the App Store button on this page for HoursTag: Hours to Buy. It is a paid download, with the included features available after purchase and no in-app unlock. Apple shows your storefront's current price before you confirm.
+
+## Related jobs, different decisions
+
+- [Buy G+Money for offline expense totals?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/gmoney-reconcile-multi-currency-spending.html)
+
+- [CalDaily Premium: what stays free?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/caldaily-remember-what-a-bill-split-result-means.html)
+
+[Buying guides](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/index.html)
+
+[HoursTag paid download: prices in work hours](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/hourstag-see-a-purchase-in-work-hours.html)
+</description></item><item><title>Lumi Math Planet: free core or full unlock?</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimath-choose-the-next-visual-math-practice.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimath-choose-the-next-visual-math-practice.html</guid><description># Lumi Math Planet: free core or full unlock?
+
+Published by Lumi Studio, the developer of these apps. This is a first-party guide, not an independent review or ranking. Screenshots are published App Store examples, not measured customer outcomes.
+
+Before unlocking Lumi Math Planet, compare its free practice loop with the fuller content your family may need.
+
+## What you can check
+
+Visual math questions and a progress view that help you choose another practice topic, without treating an app score as a school assessment.
+
+![Published interface evidence](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/10/86/ee108630-b38b-9519-15d9-d030ade27254/05.png/320x480bb.jpg)
+
+Published App Store example; not a measured customer outcome.
+
+Evidence checked: 2026-09-11 · App version: 1.0.13
+
+## Before you buy
+
+First planets and the daily challenge are free. One purchase unlocks the full galaxy.
+
+The first planets and daily challenge are free to start. An optional one-time unlock opens the full galaxy of content; it is not a subscription. No subscription. Current local pricing is shown by Apple; no fixed price is quoted here.
+
+[Download free on the App Store](https://apps.apple.com/us/app/id6778269699?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## A practical workflow
+
+1. Begin with an available visual question together. Ask the child to explain the picture or pattern rather than rushing to tap an answer.
+
+2. Use practice at the child's pace when a timed activity is not a good fit. Stop or change topic if the session becomes frustrating.
+
+3. Review the progress view with the child and pick a topic to revisit. Look for a conversation about the mistake, not a target score to promise.
+
+## Published interface evidence
+
+The published progress screen shows skill categories and practice history. These are in-app records, not evidence of measured learning gains.
+
+App Store screenshot, not a downloadable output sample or an independent performance test.
+
+## Know the limits
+
+- Practice results do not diagnose learning needs, establish school readiness, or guarantee competition performance.
+
+- Contest-style questions are practice material, not official or endorsed competition questions.
+
+## When a simpler option is enough
+
+Counters, a number line, or a short paper exercise may be the better choice when you want a completely screen-free session.
+
+## Before you decide
+
+### Do I need to buy before trying the learning loop?
+
+No. Start with the free first planets and daily challenge, then decide whether you need the larger one-time-unlock content set.
+
+### Is this the paid Lumi Math Pro app?
+
+No. This page links to Lumi Math Planet: Explorer, the free-download app with an optional unlock. Lumi Math Pro is a separate paid download.
+
+### Where do I buy the right app?
+
+Use the App Store button on this page for Lumi Math Planet: Explorer. Download the free core first; the optional one-time unlock is purchased inside the app. The in-app Apple purchase sheet shows the current local unlock price before you confirm.
+
+## Related jobs, different decisions
+
+- [Buy Lumi Bopomofo Pro: all 37 sounds](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumibopomofopro-listen-and-trace-zhuyin-at-home.html)
+
+- [Lumi Mission Planet Pro: what you buy](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimissionpro-keep-a-visible-family-routine-record.html)
+
+[Buying guides](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/index.html)
+
+[Lumi Math Planet: free core or full unlock?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimath-choose-the-next-visual-math-practice.html)
+</description></item><item><title>Buy Lumi Bopomofo Pro: all 37 sounds</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumibopomofopro-listen-and-trace-zhuyin-at-home.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumibopomofopro-listen-and-trace-zhuyin-at-home.html</guid><description># Buy Lumi Bopomofo Pro: all 37 sounds
+
+Published by Lumi Studio, the developer of these apps. This is a first-party guide, not an independent review or ranking. Screenshots are published App Store examples, not measured customer outcomes.
+
+Considering the complete paid Zhuyin app? Inspect the tracing activity before buying Lumi Bopomofo Pro.
+
+## What you can check
+
+A guided sound-and-tracing activity for a chosen Zhuyin symbol, followed by practice games rather than an unsupported reading-level promise.
+
+![Published interface evidence](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/4e/e5/f34ee546-8a7a-e18b-6fd7-ca82bcba5876/04.png/320x480bb.jpg)
+
+Published App Store example; not a measured customer outcome.
+
+Evidence checked: 2026-09-11 · App version: 1.0.18
+
+## Before you buy
+
+Paid download includes all 37 symbols and the included games. No in-app purchase.
+
+Lumi Bopomofo Pro is a paid download. All 37 symbols, tracing, blending, tone practice, and the included games are available after purchase; there is no in-app unlock. No subscription. Current local pricing is shown by Apple; no fixed price is quoted here.
+
+[Buy this app on the App Store](https://apps.apple.com/us/app/id6775773117?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## A practical workflow
+
+1. An adult chooses one familiar symbol and listens with the child. Connect the sound to a word the family actually uses.
+
+2. Open the tracing activity, watch the stroke guidance, and let the child repeat it without rushing.
+
+3. Revisit the sound in a matching or blending activity. Use the parent area to review practice, and return to paper when that suits the child better.
+
+## Published interface evidence
+
+The published Magic Tracing screen shows Zhuyin stroke guidance. It demonstrates the activity, not a child's completed assessment.
+
+App Store screenshot, not a downloadable output sample or an independent performance test.
+
+## Know the limits
+
+- Zhuyin/Bopomofo is not Latin-letter Hanyu Pinyin. This is not a complete Chinese-character reading curriculum.
+
+- The app supports practice; it cannot guarantee first-grade readiness, pronunciation mastery, or a particular pace of learning.
+
+## When a simpler option is enough
+
+A school-provided Zhuyin sheet and an adult reading aloud may be enough if you only need a few symbols or prefer handwriting entirely on paper.
+
+## Before you decide
+
+### Will buying this add more purchase prompts during practice?
+
+This is the complete paid-download Pro app, with no in-app purchases. An adult should still make the purchase decision.
+
+### Can a heritage-language family use it outside Taiwan?
+
+It can support Bopomofo practice wherever the family studies that phonetic system. Check device and storefront availability on the linked App Store listing.
+
+### Where do I buy the right app?
+
+Use the App Store button on this page for Lumi Bopomofo Pro: Zhuyin. It is a paid download, with the included features available after purchase and no in-app unlock. Apple shows your storefront's current price before you confirm.
+
+## Related jobs, different decisions
+
+- [Lumi Math Planet: free core or full unlock?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimath-choose-the-next-visual-math-practice.html)
+
+- [Lumi Mission Planet Pro: what you buy](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimissionpro-keep-a-visible-family-routine-record.html)
+
+[Buying guides](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/index.html)
+
+[Buy Lumi Bopomofo Pro: all 37 sounds](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumibopomofopro-listen-and-trace-zhuyin-at-home.html)
+</description></item><item><title>Lumi Mission Planet Pro: what you buy</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimissionpro-keep-a-visible-family-routine-record.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimissionpro-keep-a-visible-family-routine-record.html</guid><description># Lumi Mission Planet Pro: what you buy
+
+Published by Lumi Studio, the developer of these apps. This is a first-party guide, not an independent review or ranking. Screenshots are published App Store examples, not measured customer outcomes.
+
+Before buying Lumi Mission Planet Pro, check its completion card and the family record you would actually use.
+
+## What you can check
+
+A mission completion card and a parent-viewable record of the actions the family marked complete.
+
+![Published interface evidence](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/22/c3/1e22c396-802a-62f3-ab21-ed98793bc0e6/02.png/320x480bb.jpg)
+
+Published App Store example; not a measured customer outcome.
+
+Evidence checked: 2026-09-11 · App version: 1.0.7
+
+## Before you buy
+
+Paid download includes routines, custom missions and the parent log. No in-app purchases.
+
+Lumi Mission Planet Pro is a paid download. The included routines, custom missions, buddies, rewards, parent dashboard, and backup are available without an in-app purchase. No subscription. Current local pricing is shown by Apple; no fixed price is quoted here.
+
+[Buy this app on the App Store](https://apps.apple.com/us/app/id6779745474?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## A practical workflow
+
+1. Choose one routine together and make the task concrete. A short, understandable action is easier to review than a vague goal such as being good.
+
+2. Use the app together and record the small win after the activity. Keep the real routine more important than the screen.
+
+3. Look at the completion card or parent log later. Adjust the routine to your family's needs instead of interpreting a missed day as failure.
+
+## Published interface evidence
+
+The published Mission Complete card is an example of the in-app result. It is not evidence that the app changes a child's behavior.
+
+App Store screenshot, not a downloadable output sample or an independent performance test.
+
+## Know the limits
+
+- The history records taps and family input; it does not independently verify that a routine happened.
+
+- This is not a behavioral treatment, medical tool, or guarantee of fewer conflicts.
+
+## When a simpler option is enough
+
+A paper sticker chart may be enough for one visible household routine, especially if everyone prefers a shared physical board.
+
+## Before you decide
+
+### Is a subscription needed for custom missions?
+
+No. This guide concerns the complete paid Pro download. The included custom-mission workflow is not a recurring subscription.
+
+### Should the child use the purchase button?
+
+No. This guide and its buying decision are for adults. Use the routine activities together with the child.
+
+### Where do I buy the right app?
+
+Use the App Store button on this page for Lumi Mission Planet Pro. It is a paid download, with the included features available after purchase and no in-app unlock. Apple shows your storefront's current price before you confirm.
+
+## Related jobs, different decisions
+
+- [Trip Planet Plus: free trip or one-time unlock?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/tripplanet-give-airport-waiting-a-small-mission.html)
+
+- [Lumi Math Planet: free core or full unlock?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimath-choose-the-next-visual-math-practice.html)
+
+[Buying guides](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/index.html)
+
+[Lumi Mission Planet Pro: what you buy](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimissionpro-keep-a-visible-family-routine-record.html)
+</description></item><item><title>Trip Planet Plus: free trip or one-time unlock?</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/tripplanet-give-airport-waiting-a-small-mission.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/tripplanet-give-airport-waiting-a-small-mission.html</guid><description># Trip Planet Plus: free trip or one-time unlock?
+
+Published by Lumi Studio, the developer of these apps. This is a first-party guide, not an independent review or ranking. Screenshots are published App Store examples, not measured customer outcomes.
+
+Deciding whether Trip Planet Plus is useful beyond the starter trip? Inspect the mission map before choosing the unlock.
+
+## What you can check
+
+A trip mission map that gives a child a small real-world task and a visible place to record progress.
+
+![Published interface evidence](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/89/c9/2589c94d-20fd-bcc8-464e-8a2f567f70da/01.png/320x480bb.jpg)
+
+Published App Store example; not a measured customer outcome.
+
+Evidence checked: 2026-09-11 · App version: 1.0.1
+
+## Before you buy
+
+One trip and starter missions are free. Plus expands the experience with one optional purchase.
+
+Start free with one trip and its starter mission experience. The optional one-time Plus unlock expands trips, missions, companions, and premium content; it is not a subscription. No subscription. Current local pricing is shown by Apple; no fixed price is quoted here.
+
+[Download free on the App Store](https://apps.apple.com/us/app/id6787193643?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## A practical workflow
+
+1. Create a trip with the child and choose one safe, concrete task, such as helping check the family bag or saying thank you.
+
+2. Keep the activity within adult supervision and the immediate travel setting. The app is not a reason to wander away from the gate or approach strangers.
+
+3. Mark progress on the mission map together, then put the device away. Use another short mission only when it fits the family's day.
+
+## Published interface evidence
+
+The published trip map shows the mission-path interface. Its sample family and trip are illustrative, not a record from a reader.
+
+App Store screenshot, not a downloadable output sample or an independent performance test.
+
+## Know the limits
+
+- Trip Planet is a family mission game, not airline tracking, navigation, a safety system, or a promise to prevent travel stress.
+
+- Optional family iCloud sharing needs the appropriate Apple services and connection; do not assume every sharing action works offline.
+
+## When a simpler option is enough
+
+A parent-made paper scavenger list works well for a single outing. Choose the app when the recurring mission map and collected trip progress are useful.
+
+## Before you decide
+
+### Must I buy Plus before creating the first trip?
+
+No. The first trip and starter mission experience form the free core. Plus is an optional one-time expansion, not a paid download requirement.
+
+### Do missions need children's photos?
+
+A simple travel task can be an action, such as helping pack or noticing a color. There is no need to make a child photograph strangers or share personal details.
+
+### Where do I buy the right app?
+
+Use the App Store button on this page for Trip Planet: Kids Quest. Download the free core first; the optional one-time unlock is purchased inside the app. The in-app Apple purchase sheet shows the current local unlock price before you confirm.
+
+## Related jobs, different decisions
+
+- [Lumi Mission Planet Pro: what you buy](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/lumimissionpro-keep-a-visible-family-routine-record.html)
+
+[Buying guides](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/index.html)
+
+[Trip Planet Plus: free trip or one-time unlock?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/tripplanet-give-airport-waiting-a-small-mission.html)
+</description></item><item><title>PhotoCream: free preview, watermark-free unlock</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/photocream-preview-a-consistent-photo-color-style.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/photocream-preview-a-consistent-photo-color-style.html</guid><description># PhotoCream: free preview, watermark-free unlock
+
+Published by Lumi Studio, the developer of these apps. This is a first-party guide, not an independent review or ranking. Screenshots are published App Store examples, not measured customer outcomes.
+
+Judge PhotoCream's editing preview before deciding whether watermark removal and premium packs are worth unlocking for your workflow.
+
+## What you can check
+
+An edited photo preview with visible color controls, so you can decide whether the result and export boundary suit your needs.
+
+![Published interface evidence](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/6b/b5/fa6bb587-57be-4cc2-5d7e-5c76e591282e/03_color.png/320x480bb.jpg)
+
+Published App Store example; not a measured customer outcome.
+
+Evidence checked: 2026-09-11 · App version: 1.0.7
+
+## Before you buy
+
+Edit and preview free. One purchase removes the watermark and opens premium packs.
+
+Download free to use the editing and look-preview workflow. Do not assume every premium pack or watermark-free export is included. A single optional one-time unlock removes the watermark and opens the premium packs. No subscription. Current local pricing is shown by Apple; no fixed price is quoted here.
+
+[Download free on the App Store](https://apps.apple.com/us/app/id6781808054?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## A practical workflow
+
+1. Choose a photo you own or have permission to edit. Start with a restrained look and check that the important details still look natural to you.
+
+2. Adjust light and color deliberately rather than assuming one preset fits every photo. Compare the preview before changing more controls.
+
+3. Check the export options and watermark requirement before sharing. Upgrade only if you need the one-time-unlock features.
+
+## Published interface evidence
+
+The published color-editing screen shows a café photo and HSL controls. It is an interface example, not an independently measured before-and-after test.
+
+App Store screenshot, not a downloadable output sample or an independent performance test.
+
+## Know the limits
+
+- A look or reference style does not guarantee an exact color match across different lighting, cameras, or displays.
+
+- Editing cannot establish that an altered image accurately represents a person's appearance or an event.
+
+## When a simpler option is enough
+
+Apple Photos may be enough for a crop and basic light adjustment. PhotoCream is relevant when its look-preview and more detailed color controls fit your workflow.
+
+## Before you decide
+
+### Is trying a look itself the paid feature?
+
+No. The free editing and preview workflow is distinct from the one-time unlock for watermark removal and premium packs.
+
+### Are my photos uploaded for the editing workflow?
+
+The published app description states that photo processing runs on the device. Purchases still use Apple's store services.
+
+### Where do I buy the right app?
+
+Use the App Store button on this page for PhotoCream Pro. Download the free core first; the optional one-time unlock is purchased inside the app. The in-app Apple purchase sheet shows the current local unlock price before you confirm.
+
+## Related jobs, different decisions
+
+- [Mask My File: free preview or export unlock?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/maskmyfile-verify-a-redacted-client-file-before-sharing.html)
+
+[Buying guides](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/index.html)
+
+[PhotoCream: free preview, watermark-free unlock](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/photocream-preview-a-consistent-photo-color-style.html)
+</description></item><item><title>Mask My File: free preview or export unlock?</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/maskmyfile-verify-a-redacted-client-file-before-sharing.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/maskmyfile-verify-a-redacted-client-file-before-sharing.html</guid><description># Mask My File: free preview or export unlock?
+
+Published by Lumi Studio, the developer of these apps. This is a first-party guide, not an independent review or ranking. Screenshots are published App Store examples, not measured customer outcomes.
+
+Evaluating Mask My File for recurring client documents? Inspect the cleaned-copy example and the first-export boundary before buying.
+
+## What you can check
+
+A new redacted copy, reopened for checking, rather than an editable shape that merely sits over the original information.
+
+![Published interface evidence](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/97/04/b19704d7-9cd7-38a5-fcb5-c596e682a47e/06-verified-output.png/320x480bb.jpg)
+
+Published App Store example; not a measured customer outcome.
+
+Evidence checked: 2026-09-11 · App version: 1.0.3
+
+## Before you buy
+
+Preview any file free; the first real cleaned-file export is free. Later exports require one purchase.
+
+Import, detect, mark, and preview files free. The first real cleaned-file export is free. An optional one-time unlock enables subsequent verified outputs and the unlocked batch workflow. No subscription. Current local pricing is shown by Apple; no fixed price is quoted here.
+
+[Download free on the App Store](https://apps.apple.com/us/app/id6792850916?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## A practical workflow
+
+1. Decide which fields the recipient actually needs. Review detected findings and add missed regions or exact-text matches yourself; OCR is a helper, not the final decision.
+
+2. For an image or PDF, use permanent solid redaction or removal rather than blur or an overlay that leaves the content recoverable. Text and structured-file formats have different masking options.
+
+3. Create the new copy, reopen it, and inspect the actual output before sending. Check every relevant page and try searching or copying the removed text where the format allows it.
+
+4. Confirm the destination and share the cleaned copy, not the original. Keep a separate original only when you still need it and are permitted to retain it.
+
+## Published interface evidence
+
+The published Private Ready screen shows a cleaned example with solid redactions after the app's verification step. The label is not a legal or independent security certification.
+
+App Store screenshot, not a downloadable output sample or an independent performance test.
+
+## Know the limits
+
+- Automatic detection can miss sensitive information. A Private Ready label does not replace your review or establish regulatory compliance.
+
+- Metadata removal depends on the format. This app does not clean information from copies already sent, remote backups, a VPN, or network traffic.
+
+## When a simpler option is enough
+
+If a desktop PDF editor already offers permanent redaction and output verification, that may be the simplest tool. Do not substitute drawing a shape for a real redaction feature.
+
+## Before you decide
+
+### Can I inspect the file before deciding to buy?
+
+Yes. Import, detection, manual selections, and preview are free; one real cleaned-file export is also free. Later exports require the one-time unlock.
+
+### Does the screenshot prove every private field was found?
+
+No. It shows the published output interface for an example file. You still decide what must be removed and verify your own exported copy.
+
+### Where do I buy the right app?
+
+Use the App Store button on this page for Mask My File. Download the free core first; the optional one-time unlock is purchased inside the app. The in-app Apple purchase sheet shows the current local unlock price before you confirm.
+
+## Related jobs, different decisions
+
+- [Buy G+Money for offline expense totals?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/gmoney-reconcile-multi-currency-spending.html)
+
+[Buying guides](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/index.html)
+
+[Mask My File: free preview or export unlock?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/maskmyfile-verify-a-redacted-client-file-before-sharing.html)
+</description></item><item><title>CalDaily Premium: what stays free?</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/caldaily-remember-what-a-bill-split-result-means.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/caldaily-remember-what-a-bill-split-result-means.html</guid><description># CalDaily Premium: what stays free?
+
+Published by Lumi Studio, the developer of these apps. This is a first-party guide, not an independent review or ranking. Screenshots are published App Store examples, not measured customer outcomes.
+
+Before upgrading CalDaily, inspect a named calculation result and separate the free essentials from unlimited advanced-tool use.
+
+## What you can check
+
+A saved result with a name and type, making the calculation easier to find instead of reconstructing it from an unexplained number.
+
+![Published interface evidence](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/07/a1/fa07a1d0-046e-7c0b-f291-2e95794cfc53/05.jpg/320x480bb.jpg)
+
+Published App Store example; not a measured customer outcome.
+
+Evidence checked: 2026-09-11 · App version: 1.0.2
+
+## Before you buy
+
+Basics, history and widget are free; each advanced tool has three free uses. Premium unlocks themes and unlimited tools.
+
+Basic calculations, history, the interactive calculator widget, and the default theme are free. Each advanced tool has three successful free uses. An optional one-time Premium purchase unlocks the other themes and unlimited advanced-tool use. No subscription. Current local pricing is shown by Apple; no fixed price is quoted here.
+
+[Download free on the App Store](https://apps.apple.com/us/app/id6794178671?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## A practical workflow
+
+1. Use the calculator or an appropriate tool and check the inputs. For a split bill, confirm the total and number of people before accepting the result.
+
+2. Give the result a meaningful name and type while the context is still fresh.
+
+3. Find it again in history by name, day, or tool. Treat the saved calculation as a record of your inputs, not as a receipt or payment confirmation.
+
+## Published interface evidence
+
+The published result screen shows a saved dinner calculation with a name and type. It demonstrates a record, not a bank transaction or proof of payment.
+
+App Store screenshot, not a downloadable output sample or an independent performance test.
+
+## Know the limits
+
+- A saved result is only as accurate as the formula and inputs. Loan, date, tax, and other practical calculations are not professional advice.
+
+- This evidence concerns the in-app saved-result workflow, not a measured widget-response-time test.
+
+## When a simpler option is enough
+
+A basic calculator and a note may be enough for an occasional split. CalDaily is relevant when searchable calculation history is part of your everyday routine.
+
+## Before you decide
+
+### Does every calculation consume a free use?
+
+No. Basic calculations and history do not consume the advanced-tool allowance. Each advanced tool has three successful free results before its one-time-unlock boundary.
+
+### Does saving a result charge or pay anyone?
+
+No. A result records a calculation. It does not initiate a bank transfer, settle a bill, or certify a payment.
+
+### Where do I buy the right app?
+
+Use the App Store button on this page for CalDaily: Calculator &amp; Themes. Download the free core first; the optional one-time unlock is purchased inside the app. The in-app Apple purchase sheet shows the current local unlock price before you confirm.
+
+## Related jobs, different decisions
+
+- [Buy G+Money for offline expense totals?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/gmoney-reconcile-multi-currency-spending.html)
+
+- [HoursTag paid download: prices in work hours](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/hourstag-see-a-purchase-in-work-hours.html)
+
+[Buying guides](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/index.html)
+
+[CalDaily Premium: what stays free?](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/caldaily-remember-what-a-bill-split-result-means.html)
+</description></item></channel></rss>

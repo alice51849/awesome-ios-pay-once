@@ -1,0 +1,45 @@
+name: Publish buyer decision guides
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pay-once-buyer-guides
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Verify source, native purchase boundaries, and exact artifacts
+        run: |
+          python3 tools/build_buyer_guides.py --check
+          python3 -m unittest discover -s tests -p 'test_*.py' -q -b
+      - name: Upload only the independent static site
+        if: github.event_name != 'pull_request' && github.ref_type == 'branch' && github.ref_name == github.event.repository.default_branch
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref_type == 'branch' && github.ref_name == github.event.repository.default_branch
+    needs: verify
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy the independently verified site
+        id: deployment
+        uses: actions/deploy-pages@v4

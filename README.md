@@ -1,5 +1,13 @@
 # Awesome iOS Pay-Once Apps
 
+<!--buyer-decision-guides-->
+## Before you buy or unlock, inspect the result
+
+App-specific buying decisions for 9 apps: published result examples first, paid downloads separated from free-core/one-time-unlock apps, with no hardcoded prices, invented rankings, or search-volume claims. Written by the developer, Lumi Studio, not an independent reviewer.
+
+[English buying guides](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/index.html) · [English RSS](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/en-US/feed.xml)
+<!--/buyer-decision-guides-->
+
 A curated list of iPhone and iPad apps you **buy once and own forever** — no subscriptions, no ads, and on-device privacy wherever possible. Subscriptions have taken over the App Store; this list collects quality apps that respect a one-time purchase, mixing well-known names with smaller indie apps.
 
 > Why pay-once? You pay a single price, keep the app across reinstalls, and aren't billed monthly for a tool you use occasionally. Many of these also process your data on-device rather than in a cloud.

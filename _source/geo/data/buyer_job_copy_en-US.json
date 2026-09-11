@@ -1,0 +1,263 @@
+{
+  "locale": "en-US",
+  "ui": {
+    "hub_title": "Before you buy or unlock, inspect the app's result",
+    "hub_intro": "For people deciding whether to buy a specific app or unlock its paid features. Compare the published interface, the usable free core, and the one-time purchase boundary. This is not a general advice feed or a ranking.",
+    "disclosure": "Published by Lumi Studio, the developer of these apps. This is a first-party guide, not an independent review or ranking. Screenshots are published App Store examples, not measured customer outcomes.",
+    "job": "The job",
+    "result": "What you can check",
+    "payment": "Before you buy",
+    "paid_label": "One paid download",
+    "free_label": "Free core · optional one-time unlock",
+    "paid_cta": "Buy this app on the App Store",
+    "free_cta": "Download free on the App Store",
+    "steps": "A practical workflow",
+    "proof": "Published interface evidence",
+    "proof_note": "App Store screenshot, not a downloadable output sample or an independent performance test.",
+    "proof_badge": "Published App Store example; not a measured customer outcome.",
+    "checked": "Evidence checked",
+    "version": "App version",
+    "limits": "Know the limits",
+    "alternative": "When a simpler option is enough",
+    "faq": "Before you decide",
+    "buy_question": "Where do I buy the right app?",
+    "buy_paid": "Use the App Store button on this page for {name}. It is a paid download, with the included features available after purchase and no in-app unlock. Apple shows your storefront's current price before you confirm.",
+    "buy_free": "Use the App Store button on this page for {name}. Download the free core first; the optional one-time unlock is purchased inside the app. The in-app Apple purchase sheet shows the current local unlock price before you confirm.",
+    "price_note": "No subscription. Current local pricing is shown by Apple; no fixed price is quoted here.",
+    "related": "Related jobs, different decisions",
+    "app_details": "App details",
+    "all_guides": "Buying guides",
+    "rss": "Subscribe to these guides via RSS",
+    "markdown": "Read the plain-text guide",
+    "backlink_heading": "Before choosing this app",
+    "support": "About this publisher"
+  },
+  "apps": {
+    "gmoney": {
+      "title": "Buy G+Money for offline expense totals?",
+      "buyer_job": "Deciding whether G+Money's paid download can replace your multi-currency expense sheet? Inspect the category summary first.",
+      "purchase_summary": "Paid download. Currency conversion, expense totals and exports are included; no in-app upgrade.",
+      "result": "A spending summary grouped by category or trip, expressed in your home currency so you can check where the money went.",
+      "included": "G+Money is a paid download. Currency conversion, expense categories, trip or event grouping, summaries, and text or CSV export are included; there is no later in-app unlock.",
+      "free_core": null,
+      "unlock": null,
+      "steps": [
+        "Choose your home currency and check the rate you intend to use. A saved or manually entered rate can be used offline; fetching a new live rate needs a connection.",
+        "Enter the original amount and currency, then assign a category. Add a trip or event tag when that context matters; leave ordinary daily spending unassigned.",
+        "Review the category or trip subtotal against your receipts before exporting. Keep the original-currency amount and exchange-rate assumptions in mind when comparing totals."
+      ],
+      "proof_caption": "The published summary screen shows category totals and trip filters. It demonstrates the reporting interface, not a verified CSV export or bank reconciliation.",
+      "limits": [
+        "This is manual expense tracking and currency conversion, not bank synchronization, tax preparation, or a financial recommendation.",
+        "Converted totals depend on the rate you select. They may differ from the final amount charged by your bank or card provider."
+      ],
+      "alternative": "A spreadsheet may be enough if you only need a short expense list and are comfortable maintaining currencies and categories yourself.",
+      "faq": [
+        {"q": "Can I keep recording expenses without mobile data?", "a": "Yes. Recording and using saved or manual exchange rates work offline. Do not confuse that with receiving fresh market rates while disconnected."},
+        {"q": "Is this G+Money Lite?", "a": "No. This guide links to the original paid G+Money, not the separate Lite app. The paid-download model on this page applies only to this App Store ID."}
+      ],
+      "queries": ["buy G+Money offline expense summary", "G+Money paid download CSV expenses"]
+    },
+    "hourstag": {
+      "title": "HoursTag paid download: prices in work hours",
+      "buyer_job": "Comparing HoursTag with a basic calculator? Check what the paid work-hour calculation and history workflow adds.",
+      "purchase_summary": "Paid download. Work-hour calculations, tags, goals and history are included; no in-app upgrade.",
+      "result": "A price converted into work hours, with Need, Want, or Impulse tags and a history you can revisit.",
+      "included": "HoursTag is a paid download. Price-to-work-time calculations, spending tags, goals, history, and backup are included without an in-app upgrade.",
+      "free_core": null,
+      "unlock": null,
+      "steps": [
+        "Set your hourly or monthly income in HoursTag. Check that the income assumptions reflect the comparison you want to make.",
+        "Enter the proposed price and read the work-time equivalent. Treat it as one perspective on the decision, not an instruction to buy or avoid something.",
+        "Label the item Need, Want, or Impulse and review the history later. A goal or wishlist can help you compare several purchases in the same unit."
+      ],
+      "proof_caption": "The published calculator screen displays a price as work hours. The numbers belong to the App Store example, not to a user's income or measured savings.",
+      "limits": [
+        "HoursTag does not measure actual hours worked or replace payroll, a timesheet, or tax calculations.",
+        "The result depends on your income inputs and cannot decide whether an expense is necessary for you."
+      ],
+      "alternative": "A basic calculator can divide a price by an hourly amount. HoursTag is relevant when you also want tags, history, and goals around that comparison.",
+      "faq": [
+        {"q": "Does it automatically discover my income?", "a": "No. You provide the income assumptions. That makes the result a personal comparison rather than a statement about your real payroll."},
+        {"q": "Does this link open HoursTag Lite?", "a": "No. It opens the original HoursTag: Hours to Buy. This guide does not describe the separate Lite app's free allowance or workflow."}
+      ],
+      "queries": ["HoursTag paid download work hours", "buy HoursTag price to time history"]
+    },
+    "lumimath": {
+      "title": "Lumi Math Planet: free core or full unlock?",
+      "buyer_job": "Before unlocking Lumi Math Planet, compare its free practice loop with the fuller content your family may need.",
+      "purchase_summary": "First planets and the daily challenge are free. One purchase unlocks the full galaxy.",
+      "result": "Visual math questions and a progress view that help you choose another practice topic, without treating an app score as a school assessment.",
+      "included": null,
+      "free_core": "The first planets and daily challenge are free to start.",
+      "unlock": "An optional one-time unlock opens the full galaxy of content; it is not a subscription.",
+      "steps": [
+        "Begin with an available visual question together. Ask the child to explain the picture or pattern rather than rushing to tap an answer.",
+        "Use practice at the child's pace when a timed activity is not a good fit. Stop or change topic if the session becomes frustrating.",
+        "Review the progress view with the child and pick a topic to revisit. Look for a conversation about the mistake, not a target score to promise."
+      ],
+      "proof_caption": "The published progress screen shows skill categories and practice history. These are in-app records, not evidence of measured learning gains.",
+      "limits": [
+        "Practice results do not diagnose learning needs, establish school readiness, or guarantee competition performance.",
+        "Contest-style questions are practice material, not official or endorsed competition questions."
+      ],
+      "alternative": "Counters, a number line, or a short paper exercise may be the better choice when you want a completely screen-free session.",
+      "faq": [
+        {"q": "Do I need to buy before trying the learning loop?", "a": "No. Start with the free first planets and daily challenge, then decide whether you need the larger one-time-unlock content set."},
+        {"q": "Is this the paid Lumi Math Pro app?", "a": "No. This page links to Lumi Math Planet: Explorer, the free-download app with an optional unlock. Lumi Math Pro is a separate paid download."}
+      ],
+      "queries": ["Lumi Math Planet free core before unlock", "Lumi Math Planet one-time unlock content"]
+    },
+    "lumibopomofopro": {
+      "title": "Buy Lumi Bopomofo Pro: all 37 sounds",
+      "buyer_job": "Considering the complete paid Zhuyin app? Inspect the tracing activity before buying Lumi Bopomofo Pro.",
+      "purchase_summary": "Paid download includes all 37 symbols and the included games. No in-app purchase.",
+      "result": "A guided sound-and-tracing activity for a chosen Zhuyin symbol, followed by practice games rather than an unsupported reading-level promise.",
+      "included": "Lumi Bopomofo Pro is a paid download. All 37 symbols, tracing, blending, tone practice, and the included games are available after purchase; there is no in-app unlock.",
+      "free_core": null,
+      "unlock": null,
+      "steps": [
+        "An adult chooses one familiar symbol and listens with the child. Connect the sound to a word the family actually uses.",
+        "Open the tracing activity, watch the stroke guidance, and let the child repeat it without rushing.",
+        "Revisit the sound in a matching or blending activity. Use the parent area to review practice, and return to paper when that suits the child better."
+      ],
+      "proof_caption": "The published Magic Tracing screen shows Zhuyin stroke guidance. It demonstrates the activity, not a child's completed assessment.",
+      "limits": [
+        "Zhuyin/Bopomofo is not Latin-letter Hanyu Pinyin. This is not a complete Chinese-character reading curriculum.",
+        "The app supports practice; it cannot guarantee first-grade readiness, pronunciation mastery, or a particular pace of learning."
+      ],
+      "alternative": "A school-provided Zhuyin sheet and an adult reading aloud may be enough if you only need a few symbols or prefer handwriting entirely on paper.",
+      "faq": [
+        {"q": "Will buying this add more purchase prompts during practice?", "a": "This is the complete paid-download Pro app, with no in-app purchases. An adult should still make the purchase decision."},
+        {"q": "Can a heritage-language family use it outside Taiwan?", "a": "It can support Bopomofo practice wherever the family studies that phonetic system. Check device and storefront availability on the linked App Store listing."}
+      ],
+      "queries": ["buy Lumi Bopomofo Pro tracing", "Lumi Bopomofo Pro paid download all symbols"]
+    },
+    "lumimissionpro": {
+      "title": "Lumi Mission Planet Pro: what you buy",
+      "buyer_job": "Before buying Lumi Mission Planet Pro, check its completion card and the family record you would actually use.",
+      "purchase_summary": "Paid download includes routines, custom missions and the parent log. No in-app purchases.",
+      "result": "A mission completion card and a parent-viewable record of the actions the family marked complete.",
+      "included": "Lumi Mission Planet Pro is a paid download. The included routines, custom missions, buddies, rewards, parent dashboard, and backup are available without an in-app purchase.",
+      "free_core": null,
+      "unlock": null,
+      "steps": [
+        "Choose one routine together and make the task concrete. A short, understandable action is easier to review than a vague goal such as being good.",
+        "Use the app together and record the small win after the activity. Keep the real routine more important than the screen.",
+        "Look at the completion card or parent log later. Adjust the routine to your family's needs instead of interpreting a missed day as failure."
+      ],
+      "proof_caption": "The published Mission Complete card is an example of the in-app result. It is not evidence that the app changes a child's behavior.",
+      "limits": [
+        "The history records taps and family input; it does not independently verify that a routine happened.",
+        "This is not a behavioral treatment, medical tool, or guarantee of fewer conflicts."
+      ],
+      "alternative": "A paper sticker chart may be enough for one visible household routine, especially if everyone prefers a shared physical board.",
+      "faq": [
+        {"q": "Is a subscription needed for custom missions?", "a": "No. This guide concerns the complete paid Pro download. The included custom-mission workflow is not a recurring subscription."},
+        {"q": "Should the child use the purchase button?", "a": "No. This guide and its buying decision are for adults. Use the routine activities together with the child."}
+      ],
+      "queries": ["buy Lumi Mission Planet Pro completion log", "Lumi Mission Planet Pro paid custom missions"]
+    },
+    "tripplanet": {
+      "title": "Trip Planet Plus: free trip or one-time unlock?",
+      "buyer_job": "Deciding whether Trip Planet Plus is useful beyond the starter trip? Inspect the mission map before choosing the unlock.",
+      "purchase_summary": "One trip and starter missions are free. Plus expands the experience with one optional purchase.",
+      "result": "A trip mission map that gives a child a small real-world task and a visible place to record progress.",
+      "included": null,
+      "free_core": "Start free with one trip and its starter mission experience.",
+      "unlock": "The optional one-time Plus unlock expands trips, missions, companions, and premium content; it is not a subscription.",
+      "steps": [
+        "Create a trip with the child and choose one safe, concrete task, such as helping check the family bag or saying thank you.",
+        "Keep the activity within adult supervision and the immediate travel setting. The app is not a reason to wander away from the gate or approach strangers.",
+        "Mark progress on the mission map together, then put the device away. Use another short mission only when it fits the family's day."
+      ],
+      "proof_caption": "The published trip map shows the mission-path interface. Its sample family and trip are illustrative, not a record from a reader.",
+      "limits": [
+        "Trip Planet is a family mission game, not airline tracking, navigation, a safety system, or a promise to prevent travel stress.",
+        "Optional family iCloud sharing needs the appropriate Apple services and connection; do not assume every sharing action works offline."
+      ],
+      "alternative": "A parent-made paper scavenger list works well for a single outing. Choose the app when the recurring mission map and collected trip progress are useful.",
+      "faq": [
+        {"q": "Must I buy Plus before creating the first trip?", "a": "No. The first trip and starter mission experience form the free core. Plus is an optional one-time expansion, not a paid download requirement."},
+        {"q": "Do missions need children's photos?", "a": "A simple travel task can be an action, such as helping pack or noticing a color. There is no need to make a child photograph strangers or share personal details."}
+      ],
+      "queries": ["Trip Planet Plus one-time unlock", "Trip Planet free first trip versus Plus"]
+    },
+    "photocream": {
+      "title": "PhotoCream: free preview, watermark-free unlock",
+      "buyer_job": "Judge PhotoCream's editing preview before deciding whether watermark removal and premium packs are worth unlocking for your workflow.",
+      "purchase_summary": "Edit and preview free. One purchase removes the watermark and opens premium packs.",
+      "result": "An edited photo preview with visible color controls, so you can decide whether the result and export boundary suit your needs.",
+      "included": null,
+      "free_core": "Download free to use the editing and look-preview workflow. Do not assume every premium pack or watermark-free export is included.",
+      "unlock": "A single optional one-time unlock removes the watermark and opens the premium packs.",
+      "steps": [
+        "Choose a photo you own or have permission to edit. Start with a restrained look and check that the important details still look natural to you.",
+        "Adjust light and color deliberately rather than assuming one preset fits every photo. Compare the preview before changing more controls.",
+        "Check the export options and watermark requirement before sharing. Upgrade only if you need the one-time-unlock features."
+      ],
+      "proof_caption": "The published color-editing screen shows a café photo and HSL controls. It is an interface example, not an independently measured before-and-after test.",
+      "limits": [
+        "A look or reference style does not guarantee an exact color match across different lighting, cameras, or displays.",
+        "Editing cannot establish that an altered image accurately represents a person's appearance or an event."
+      ],
+      "alternative": "Apple Photos may be enough for a crop and basic light adjustment. PhotoCream is relevant when its look-preview and more detailed color controls fit your workflow.",
+      "faq": [
+        {"q": "Is trying a look itself the paid feature?", "a": "No. The free editing and preview workflow is distinct from the one-time unlock for watermark removal and premium packs."},
+        {"q": "Are my photos uploaded for the editing workflow?", "a": "The published app description states that photo processing runs on the device. Purchases still use Apple's store services."}
+      ],
+      "queries": ["PhotoCream free preview before unlock", "PhotoCream one-time watermark removal upgrade"]
+    },
+    "maskmyfile": {
+      "title": "Mask My File: free preview or export unlock?",
+      "buyer_job": "Evaluating Mask My File for recurring client documents? Inspect the cleaned-copy example and the first-export boundary before buying.",
+      "purchase_summary": "Preview any file free; the first real cleaned-file export is free. Later exports require one purchase.",
+      "result": "A new redacted copy, reopened for checking, rather than an editable shape that merely sits over the original information.",
+      "included": null,
+      "free_core": "Import, detect, mark, and preview files free. The first real cleaned-file export is free.",
+      "unlock": "An optional one-time unlock enables subsequent verified outputs and the unlocked batch workflow.",
+      "steps": [
+        "Decide which fields the recipient actually needs. Review detected findings and add missed regions or exact-text matches yourself; OCR is a helper, not the final decision.",
+        "For an image or PDF, use permanent solid redaction or removal rather than blur or an overlay that leaves the content recoverable. Text and structured-file formats have different masking options.",
+        "Create the new copy, reopen it, and inspect the actual output before sending. Check every relevant page and try searching or copying the removed text where the format allows it.",
+        "Confirm the destination and share the cleaned copy, not the original. Keep a separate original only when you still need it and are permitted to retain it."
+      ],
+      "proof_caption": "The published Private Ready screen shows a cleaned example with solid redactions after the app's verification step. The label is not a legal or independent security certification.",
+      "limits": [
+        "Automatic detection can miss sensitive information. A Private Ready label does not replace your review or establish regulatory compliance.",
+        "Metadata removal depends on the format. This app does not clean information from copies already sent, remote backups, a VPN, or network traffic."
+      ],
+      "alternative": "If a desktop PDF editor already offers permanent redaction and output verification, that may be the simplest tool. Do not substitute drawing a shape for a real redaction feature.",
+      "faq": [
+        {"q": "Can I inspect the file before deciding to buy?", "a": "Yes. Import, detection, manual selections, and preview are free; one real cleaned-file export is also free. Later exports require the one-time unlock."},
+        {"q": "Does the screenshot prove every private field was found?", "a": "No. It shows the published output interface for an example file. You still decide what must be removed and verify your own exported copy."}
+      ],
+      "queries": ["Mask My File free export before unlock", "Mask My File one-time export purchase"]
+    },
+    "caldaily": {
+      "title": "CalDaily Premium: what stays free?",
+      "buyer_job": "Before upgrading CalDaily, inspect a named calculation result and separate the free essentials from unlimited advanced-tool use.",
+      "purchase_summary": "Basics, history and widget are free; each advanced tool has three free uses. Premium unlocks themes and unlimited tools.",
+      "result": "A saved result with a name and type, making the calculation easier to find instead of reconstructing it from an unexplained number.",
+      "included": null,
+      "free_core": "Basic calculations, history, the interactive calculator widget, and the default theme are free. Each advanced tool has three successful free uses.",
+      "unlock": "An optional one-time Premium purchase unlocks the other themes and unlimited advanced-tool use.",
+      "steps": [
+        "Use the calculator or an appropriate tool and check the inputs. For a split bill, confirm the total and number of people before accepting the result.",
+        "Give the result a meaningful name and type while the context is still fresh.",
+        "Find it again in history by name, day, or tool. Treat the saved calculation as a record of your inputs, not as a receipt or payment confirmation."
+      ],
+      "proof_caption": "The published result screen shows a saved dinner calculation with a name and type. It demonstrates a record, not a bank transaction or proof of payment.",
+      "limits": [
+        "A saved result is only as accurate as the formula and inputs. Loan, date, tax, and other practical calculations are not professional advice.",
+        "This evidence concerns the in-app saved-result workflow, not a measured widget-response-time test."
+      ],
+      "alternative": "A basic calculator and a note may be enough for an occasional split. CalDaily is relevant when searchable calculation history is part of your everyday routine.",
+      "faq": [
+        {"q": "Does every calculation consume a free use?", "a": "No. Basic calculations and history do not consume the advanced-tool allowance. Each advanced tool has three successful free results before its one-time-unlock boundary."},
+        {"q": "Does saving a result charge or pay anyone?", "a": "No. A result records a calculation. It does not initiate a bank transfer, settle a bill, or certify a payment."}
+      ],
+      "queries": ["CalDaily Premium free core versus upgrade", "CalDaily one-time unlock advanced tools"]
+    }
+  }
+}

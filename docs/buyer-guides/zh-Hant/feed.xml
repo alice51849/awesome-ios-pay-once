@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+<title>購買或解鎖前，先看 App 的實際結果</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/index.html</link>
+<description>本文由這些 App 的開發者 Lumi Studio 撰寫，並非獨立評測或排名。圖片取自公開 App Store 示範畫面，不代表使用者的實際成效。</description><language>zh-Hant</language>
+<atom:link href="https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/feed.xml" rel="self" type="application/rss+xml"/>
+<item><title>G+Money 買斷前，先看外幣支出摘要</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/gmoney-reconcile-multi-currency-spending.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/gmoney-reconcile-multi-currency-spending.html</guid><description># G+Money 買斷前，先看外幣支出摘要
+
+本文由這些 App 的開發者 Lumi Studio 撰寫，並非獨立評測或排名。圖片取自公開 App Store 示範畫面，不代表使用者的實際成效。
+
+正在評估 G+Money 能否取代多幣別記帳表？先確認分類合計的畫面與付費下載所含功能。
+
+## 可以檢查的結果
+
+以本位幣顯示的支出摘要，可按分類、旅程或活動核對，保留每筆花費原本的情境。
+
+![公開畫面與證據範圍](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/e3/65/2de365f8-1001-d101-9e0f-984702bdacab/01.png/320x480bb.jpg)
+
+公開 App Store 示範畫面，不代表使用者成效。
+
+證據查核日期: 2026-09-11 · App 版本: 2.1.10
+
+## 下載或購買前先看
+
+一次付費下載，包含幣別換算、支出合計與匯出，不另設 App 內升級。
+
+G+Money 採一次付費下載，包含匯率換算、支出分類、旅程或活動標記、摘要，以及文字／CSV 匯出，不另設 App 內解鎖。 不採訂閱制；實際在地價格以 Apple 購買畫面為準，本文不寫死價格。
+
+[在 App Store 一次購買](https://apps.apple.com/tw/app/id6755782939?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## 實際使用時這樣做
+
+1. 先設定本位幣，並確認要採用的匯率。已儲存或手動輸入的匯率可離線使用；取得新的即時匯率仍需要連線。
+
+2. 記下原始金額、幣別與分類。旅行支出加上旅程標記，平日花費則可不指定旅程，避免把不同用途混在一起。
+
+3. 從分類或旅程摘要逐項對照收據，再決定是否匯出。核對時也要注意原幣金額與換算匯率，不要只看最後的台幣合計。
+
+## 公開畫面與證據範圍
+
+公開摘要畫面可見分類合計與旅程篩選，證明此報表介面的樣貌；這不是已驗證的 CSV 成品，也不是銀行對帳結果。
+
+這是 App Store 截圖，不是可下載的匯出範例，也不是獨立效能測試。
+
+## 先知道它不適合什麼
+
+- 這是手動記帳與幣別換算工具，不會自動同步銀行交易，也不能代替報稅或財務建議。
+
+- 換算結果取決於你選用的匯率，可能與銀行或信用卡最後入帳的金額不同。
+
+## 何時用簡單的方法就夠了
+
+如果只是短期記幾筆支出，而且願意自己維護幣別與分類，一張試算表可能就夠用。
+
+## 決定前的常見問題
+
+### 沒有網路時，還能繼續記帳嗎？
+
+可以。記錄支出，以及使用已儲存或手動輸入的匯率，都可離線進行；但離線不代表能取得最新市場匯率。
+
+### 這裡連到的是 G+Money Lite 嗎？
+
+不是。本頁介紹原版付費下載的 G+Money，不是獨立的 Lite App；此處的付費方式只適用於本頁指定的 App Store 商品。
+
+### 哪裡可以買到正確的 App？
+
+請使用本頁的 App Store 按鈕前往 G+Money。這款採一次付費下載，購買後即可使用所含功能，不需另外在 App 內解鎖。確認購買前，Apple 會顯示該商店的現行價格。
+
+## 接下來可能要處理的事
+
+- [HoursTag 付費下載，多了哪些工時換算功能？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/hourstag-see-a-purchase-in-work-hours.html)
+
+- [CalDaily Premium 升級前，先看免費界線](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/caldaily-remember-what-a-bill-split-result-means.html)
+
+[購買指南](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/index.html)
+
+[G+Money 買斷前，先看外幣支出摘要](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/gmoney-reconcile-multi-currency-spending.html)
+</description></item><item><title>HoursTag 付費下載，多了哪些工時換算功能？</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/hourstag-see-a-purchase-in-work-hours.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/hourstag-see-a-purchase-in-work-hours.html</guid><description># HoursTag 付費下載，多了哪些工時換算功能？
+
+本文由這些 App 的開發者 Lumi Studio 撰寫，並非獨立評測或排名。圖片取自公開 App Store 示範畫面，不代表使用者的實際成效。
+
+正在比較 HoursTag 與一般計算機？先看價格換算工作時數的結果，再判斷標記與歷史是否值得購買。
+
+## 可以檢查的結果
+
+把價格換算成工作時數，搭配「需要、想要、衝動」標記與歷史，之後還能回頭看自己的選擇。
+
+![公開畫面與證據範圍](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/c5/85/5cc58548-c04b-fb66-f0af-badaa32bcad4/00.png/320x480bb.jpg)
+
+公開 App Store 示範畫面，不代表使用者成效。
+
+證據查核日期: 2026-09-11 · App 版本: 3.0.12
+
+## 下載或購買前先看
+
+一次付費下載，包含工時換算、標記、目標與歷史，不需要 App 內升級。
+
+HoursTag 採一次付費下載，包含金額與工時換算、消費標記、目標、歷史與備份，不需要再於 App 內升級。 不採訂閱制；實際在地價格以 Apple 購買畫面為準，本文不寫死價格。
+
+[在 App Store 一次購買](https://apps.apple.com/tw/app/id6754218117?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## 實際使用時這樣做
+
+1. 先設定時薪或月收入，確認使用的收入假設符合你想比較的情境。
+
+2. 輸入想買物品的價格，查看換算後的工作時間。把它當作思考角度，而不是一定該買或不該買的答案。
+
+3. 加上「需要、想要、衝動」標記，隔一段時間再回看歷史；也可用目標或願望清單，將不同花費放在相同單位下比較。
+
+## 公開畫面與證據範圍
+
+公開換算畫面顯示價格對應的工作時數。圖中的收入與數字是商店示例，不是讀者的薪資，也不是節省金額的實測。
+
+這是 App Store 截圖，不是可下載的匯出範例，也不是獨立效能測試。
+
+## 先知道它不適合什麼
+
+- HoursTag 不會量測實際出勤工時，不能取代薪資單、工時表或稅務計算。
+
+- 結果依你輸入的收入而定，也無法替你判定某筆支出是否必要。
+
+## 何時用簡單的方法就夠了
+
+只想換算一次時，用一般計算機把價格除以時薪即可；需要一起保留標記、歷史與目標時，才值得考慮這類專用工具。
+
+## 決定前的常見問題
+
+### App 會自動讀取我的收入嗎？
+
+不會。收入假設由你自己提供，因此結果是個人化比較，不是薪資或銀行資料的認證。
+
+### 這是 HoursTag Lite 的介紹嗎？
+
+不是。連結會開啟原版 HoursTag: Hours to Buy；本文沒有把 Lite 的免費額度或不同操作流程套到原版上。
+
+### 哪裡可以買到正確的 App？
+
+請使用本頁的 App Store 按鈕前往 HoursTag: Hours to Buy。這款採一次付費下載，購買後即可使用所含功能，不需另外在 App 內解鎖。確認購買前，Apple 會顯示該商店的現行價格。
+
+## 接下來可能要處理的事
+
+- [G+Money 買斷前，先看外幣支出摘要](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/gmoney-reconcile-multi-currency-spending.html)
+
+- [CalDaily Premium 升級前，先看免費界線](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/caldaily-remember-what-a-bill-split-result-means.html)
+
+[購買指南](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/index.html)
+
+[HoursTag 付費下載，多了哪些工時換算功能？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/hourstag-see-a-purchase-in-work-hours.html)
+</description></item><item><title>Lumi Math Planet 免費哪些？何時需要解鎖？</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimath-choose-the-next-visual-math-practice.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimath-choose-the-next-visual-math-practice.html</guid><description># Lumi Math Planet 免費哪些？何時需要解鎖？
+
+本文由這些 App 的開發者 Lumi Studio 撰寫，並非獨立評測或排名。圖片取自公開 App Store 示範畫面，不代表使用者的實際成效。
+
+想知道 Lumi Math Planet 的免費練習是否已足夠？先看進度紀錄，再比較一次解鎖的完整內容。
+
+## 可以檢查的結果
+
+看得見的圖像題與進度紀錄，幫助家長安排下一次練習；App 分數不等於學校評量。
+
+![公開畫面與證據範圍](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/a6/4f/cca64f82-137f-7b2e-de0e-a64f35376629/05.png/320x480bb.jpg)
+
+公開 App Store 示範畫面，不代表使用者成效。
+
+證據查核日期: 2026-09-11 · App 版本: 1.0.13
+
+## 下載或購買前先看
+
+入門星球與每日挑戰免費；需要完整星系時，再選擇一次解鎖。
+
+入門星球與每日挑戰可免費開始。 需要更完整的內容時，可選擇一次解鎖整個星系，不採訂閱制。 不採訂閱制；實際在地價格以 Apple 購買畫面為準，本文不寫死價格。
+
+[在 App Store 免費下載](https://apps.apple.com/tw/app/id6778269699?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## 實際使用時這樣做
+
+1. 先一起做一題可用的圖像題，請孩子說說看到了什麼數量或規律，不急著按答案。
+
+2. 如果倒數計時不適合孩子，就選擇按自己的步調練習。覺得挫折時可以換題或休息，不把繼續玩當成要求。
+
+3. 一起查看進度頁，再挑一類想回看的題目。重點是理解剛才怎麼想，而不是承諾達到某個分數。
+
+## 公開畫面與證據範圍
+
+公開進度頁呈現能力分類與練習紀錄；它是 App 內的紀錄畫面，不是學習成效的研究證據。
+
+這是 App Store 截圖，不是可下載的匯出範例，也不是獨立效能測試。
+
+## 先知道它不適合什麼
+
+- 練習紀錄不能診斷學習需求、判定入學準備度，也不保證競賽表現。
+
+- 競賽風格題目是練習素材，不代表任何競賽主辦單位的官方題庫或背書。
+
+## 何時用簡單的方法就夠了
+
+想完全離開螢幕時，實體小物、數線或短篇紙本練習，也能用來討論數量與規律。
+
+## 決定前的常見問題
+
+### 一定要先買，才能知道孩子適不適合嗎？
+
+不用。可先使用免費的入門星球與每日挑戰，再決定是否需要一次解鎖的完整內容。
+
+### 這與付費下載的 Lumi Math Pro 一樣嗎？
+
+不是同一個 App。本頁連到免費下載、可選擇一次解鎖的 Lumi Math Planet: Explorer；Lumi Math Pro 是另一款付費下載商品。
+
+### 哪裡可以買到正確的 App？
+
+請使用本頁的 App Store 按鈕前往 Lumi Math Planet: Explorer，先下載使用免費核心；需要擴充時，再於 App 內選擇一次性解鎖。確認前，Apple 購買畫面會顯示當地的實際解鎖價格。
+
+## 接下來可能要處理的事
+
+- [Lumi Bopomofo Pro 買斷，37 個注音都包含嗎？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumibopomofopro-listen-and-trace-zhuyin-at-home.html)
+
+- [Lumi Mission Planet Pro 付費後能做什麼？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimissionpro-keep-a-visible-family-routine-record.html)
+
+[購買指南](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/index.html)
+
+[Lumi Math Planet 免費哪些？何時需要解鎖？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimath-choose-the-next-visual-math-practice.html)
+</description></item><item><title>Lumi Bopomofo Pro 買斷，37 個注音都包含嗎？</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumibopomofopro-listen-and-trace-zhuyin-at-home.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumibopomofopro-listen-and-trace-zhuyin-at-home.html</guid><description># Lumi Bopomofo Pro 買斷，37 個注音都包含嗎？
+
+本文由這些 App 的開發者 Lumi Studio 撰寫，並非獨立評測或排名。圖片取自公開 App Store 示範畫面，不代表使用者的實際成效。
+
+考慮購買完整注音 Pro 版？先看 Lumi Bopomofo Pro 的筆順描寫畫面，再確認所含內容。
+
+## 可以檢查的結果
+
+針對一個注音符號進行聽音、筆順與描寫練習，再透過遊戲複習，不把遊玩紀錄當成識字程度的保證。
+
+![公開畫面與證據範圍](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/bd/b2/56bdb2fb-1bc3-95df-a417-2efb6e693b5e/04.png/320x480bb.jpg)
+
+公開 App Store 示範畫面，不代表使用者成效。
+
+證據查核日期: 2026-09-11 · App 版本: 1.0.18
+
+## 下載或購買前先看
+
+一次付費下載，包含 37 個注音符號與所含遊戲，不另設 App 內購買。
+
+Lumi Bopomofo Pro 採一次付費下載，37 個注音符號、描寫、拼讀、聲調練習與所含遊戲購買後即可使用，不另設 App 內解鎖。 不採訂閱制；實際在地價格以 Apple 購買畫面為準，本文不寫死價格。
+
+[在 App Store 一次購買](https://apps.apple.com/tw/app/id6775773117?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## 實際使用時這樣做
+
+1. 由家長挑一個孩子熟悉的注音，一起聽發音，再連結到家裡日常會說的詞。
+
+2. 打開描寫活動，看過筆順提示後讓孩子慢慢描，不要求一定要在幾秒內完成。
+
+3. 再用配對或拼讀活動複習同一個聲音。需要時到家長區看練習紀錄，也可回到紙上寫一次。
+
+## 公開畫面與證據範圍
+
+公開的 Magic Tracing 畫面顯示注音筆順提示；這是活動介面示例，不是某位孩子完成評量的結果。
+
+這是 App Store 截圖，不是可下載的匯出範例，也不是獨立效能測試。
+
+## 先知道它不適合什麼
+
+- 這裡的注音是 ㄅㄆㄇ 系統，不是以拉丁字母表示的漢語拼音，也不是完整的國字閱讀課程。
+
+- App 提供練習，但不保證小一準備度、發音熟練程度或固定的學習速度。
+
+## 何時用簡單的方法就夠了
+
+如果只想練幾個符號，學校提供的注音表加上家長朗讀，或直接在紙上描寫，可能更簡單。
+
+## 決定前的常見問題
+
+### 購買後，練習途中還需要另外付費嗎？
+
+這是完整的付費下載 Pro 版，不含 App 內購買；購買決定仍應由家長處理。
+
+### 住海外的華語家庭也適合嗎？
+
+如果家裡學的是注音系統，就可把它當作陪練工具；裝置需求與所在地是否能購買，請看本頁連到的 App Store 商品。
+
+### 哪裡可以買到正確的 App？
+
+請使用本頁的 App Store 按鈕前往 Lumi Bopomofo Pro: Zhuyin。這款採一次付費下載，購買後即可使用所含功能，不需另外在 App 內解鎖。確認購買前，Apple 會顯示該商店的現行價格。
+
+## 接下來可能要處理的事
+
+- [Lumi Math Planet 免費哪些？何時需要解鎖？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimath-choose-the-next-visual-math-practice.html)
+
+- [Lumi Mission Planet Pro 付費後能做什麼？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimissionpro-keep-a-visible-family-routine-record.html)
+
+[購買指南](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/index.html)
+
+[Lumi Bopomofo Pro 買斷，37 個注音都包含嗎？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumibopomofopro-listen-and-trace-zhuyin-at-home.html)
+</description></item><item><title>Lumi Mission Planet Pro 付費後能做什麼？</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimissionpro-keep-a-visible-family-routine-record.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimissionpro-keep-a-visible-family-routine-record.html</guid><description># Lumi Mission Planet Pro 付費後能做什麼？
+
+本文由這些 App 的開發者 Lumi Studio 撰寫，並非獨立評測或排名。圖片取自公開 App Store 示範畫面，不代表使用者的實際成效。
+
+購買 Lumi Mission Planet Pro 前，先看任務完成卡與家長紀錄是否符合家裡真正會用到的流程。
+
+## 可以檢查的結果
+
+一張任務完成卡，以及家長可查看的紀錄，保留家人當時標記完成的事情。
+
+![公開畫面與證據範圍](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/c6/46/15c646aa-00ea-790b-0209-cfe880172006/02.png/320x480bb.jpg)
+
+公開 App Store 示範畫面，不代表使用者成效。
+
+證據查核日期: 2026-09-11 · App 版本: 1.0.7
+
+## 下載或購買前先看
+
+一次付費下載，包含例行活動、自訂任務與家長紀錄，不另設 App 內購買。
+
+Lumi Mission Planet Pro 採一次付費下載，包含所提供的例行活動、自訂任務、夥伴、獎勵、家長總覽與備份，不另設 App 內購買。 不採訂閱制；實際在地價格以 Apple 購買畫面為準，本文不寫死價格。
+
+[在 App Store 一次購買](https://apps.apple.com/tw/app/id6779745474?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## 實際使用時這樣做
+
+1. 先一起選一件具體的小事，例如把玩具放回盒子。比起「今天要乖」這類抽象目標，明確動作更容易一起確認。
+
+2. 完成真實活動後再一起記錄，讓生活中的任務比螢幕上的回饋更重要。
+
+3. 之後從完成卡或家長紀錄回看，再依家庭作息調整；漏了一天也不必當成失敗。
+
+## 公開畫面與證據範圍
+
+公開的「任務完成」卡片示範 App 內會呈現的結果，不是 App 能改變孩子行為的證據。
+
+這是 App Store 截圖，不是可下載的匯出範例，也不是獨立效能測試。
+
+## 先知道它不適合什麼
+
+- 歷史記錄的是點選與家人的輸入，不會獨立驗證孩子是否真的完成某項活動。
+
+- 這不是行為治療或醫療工具，也不保證能減少家庭衝突。
+
+## 何時用簡單的方法就夠了
+
+若只想在家裡共同看到一項例行活動，貼在牆上的紙本貼紙表也可能很合適。
+
+## 決定前的常見問題
+
+### 自訂任務需要持續訂閱嗎？
+
+不需要。本頁介紹完整的付費下載 Pro 版，所含的自訂任務流程不是訂閱功能。
+
+### 孩子可以自己按購買按鈕嗎？
+
+不應由孩子處理。這篇指南與購買決定是寫給成人的，日常任務活動則適合家長陪孩子一起使用。
+
+### 哪裡可以買到正確的 App？
+
+請使用本頁的 App Store 按鈕前往 Lumi Mission Planet Pro。這款採一次付費下載，購買後即可使用所含功能，不需另外在 App 內解鎖。確認購買前，Apple 會顯示該商店的現行價格。
+
+## 接下來可能要處理的事
+
+- [Trip Planet 免費一趟，何時需要解鎖 Plus？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/tripplanet-give-airport-waiting-a-small-mission.html)
+
+- [Lumi Math Planet 免費哪些？何時需要解鎖？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimath-choose-the-next-visual-math-practice.html)
+
+[購買指南](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/index.html)
+
+[Lumi Mission Planet Pro 付費後能做什麼？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimissionpro-keep-a-visible-family-routine-record.html)
+</description></item><item><title>Trip Planet 免費一趟，何時需要解鎖 Plus？</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/tripplanet-give-airport-waiting-a-small-mission.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/tripplanet-give-airport-waiting-a-small-mission.html</guid><description># Trip Planet 免費一趟，何時需要解鎖 Plus？
+
+本文由這些 App 的開發者 Lumi Studio 撰寫，並非獨立評測或排名。圖片取自公開 App Store 示範畫面，不代表使用者的實際成效。
+
+正在考慮 Trip Planet Plus？先看任務星圖，確認免費入門旅程以外的擴充是否有需要。
+
+## 可以檢查的結果
+
+把一件真實旅行小事放進任務星圖，讓孩子知道要做什麼，完成後有地方一起記下進度。
+
+![公開畫面與證據範圍](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/ea/24/e4ea24d3-bfc8-b2c6-1a36-621fadab4dfa/01.png/320x480bb.jpg)
+
+公開 App Store 示範畫面，不代表使用者成效。
+
+證據查核日期: 2026-09-11 · App 版本: 1.0.1
+
+## 下載或購買前先看
+
+第一趟旅程與入門任務免費；Plus 是可選擇的一次性擴充。
+
+可先免費建立一趟旅程，體驗入門任務。 可選擇一次解鎖 Plus，擴充旅程、任務、夥伴與進階內容，不採訂閱制。 不採訂閱制；實際在地價格以 Apple 購買畫面為準，本文不寫死價格。
+
+[在 App Store 免費下載](https://apps.apple.com/tw/app/id6787193643?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## 實際使用時這樣做
+
+1. 和孩子建立旅程，選一件安全、具體的小事，例如幫忙檢查隨身包，或對幫忙的人說謝謝。
+
+2. 活動必須在成人照看與當下環境允許的範圍內，不因遊戲而離開登機門、獨自走遠或接近陌生人。
+
+3. 一起在任務星圖記下進度，接著把裝置收起來。要不要增加下一個任務，以當天家人的狀況為準。
+
+## 公開畫面與證據範圍
+
+公開旅程星圖呈現任務路徑介面；畫面中的家庭與旅程是示範資料，不是讀者的私人紀錄。
+
+這是 App Store 截圖，不是可下載的匯出範例，也不是獨立效能測試。
+
+## 先知道它不適合什麼
+
+- 這是親子旅行任務遊戲，不是航班追蹤、導航或安全系統，也不保證旅行一定不會有壓力。
+
+- 選用家庭 iCloud 分享時，仍需要相應的 Apple 服務與連線，不應假設所有分享操作都能離線完成。
+
+## 何時用簡單的方法就夠了
+
+只有一次短途出遊時，家長自製的紙本小任務就可能足夠；想持續保留任務星圖與旅程進度時，再考慮 App。
+
+## 決定前的常見問題
+
+### 建立第一趟旅程前，一定要先買 Plus 嗎？
+
+不用。第一趟旅程與入門任務屬於免費核心；Plus 是可選擇的一次性擴充，不是下載前必須支付的費用。
+
+### 任務一定要拍孩子或陌生人的照片嗎？
+
+不需要。幫忙整理、注意一種顏色或完成一個禮貌動作，都可以是小任務，沒必要為了遊戲拍陌生人或分享個人資訊。
+
+### 哪裡可以買到正確的 App？
+
+請使用本頁的 App Store 按鈕前往 Trip Planet: Kids Quest，先下載使用免費核心；需要擴充時，再於 App 內選擇一次性解鎖。確認前，Apple 購買畫面會顯示當地的實際解鎖價格。
+
+## 接下來可能要處理的事
+
+- [Lumi Mission Planet Pro 付費後能做什麼？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/lumimissionpro-keep-a-visible-family-routine-record.html)
+
+[購買指南](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/index.html)
+
+[Trip Planet 免費一趟，何時需要解鎖 Plus？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/tripplanet-give-airport-waiting-a-small-mission.html)
+</description></item><item><title>PhotoCream 免費預覽，去浮水印才需要解鎖</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/photocream-preview-a-consistent-photo-color-style.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/photocream-preview-a-consistent-photo-color-style.html</guid><description># PhotoCream 免費預覽，去浮水印才需要解鎖
+
+本文由這些 App 的開發者 Lumi Studio 撰寫，並非獨立評測或排名。圖片取自公開 App Store 示範畫面，不代表使用者的實際成效。
+
+先用 PhotoCream 預覽自己的調色結果，再判斷去浮水印與高級套件是否值得一次購買。
+
+## 可以檢查的結果
+
+可以查看的編輯預覽與色彩控制，讓你判斷畫面風格及匯出界線是否符合需求。
+
+![公開畫面與證據範圍](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/9c/30/0e9c30cf-aa53-b842-9d15-a2f511e79fb4/03_color.png/320x480bb.jpg)
+
+公開 App Store 示範畫面，不代表使用者成效。
+
+證據查核日期: 2026-09-11 · App 版本: 1.0.7
+
+## 下載或購買前先看
+
+編輯與預覽免費；一次購買可移除浮水印，並開啟高級套件。
+
+可免費下載，使用照片編輯與風格預覽流程；不代表所有高級套件或無浮水印匯出都免費。 可選擇一次性解鎖，移除浮水印並開啟高級套件。 不採訂閱制；實際在地價格以 Apple 購買畫面為準，本文不寫死價格。
+
+[在 App Store 免費下載](https://apps.apple.com/tw/app/id6781808054?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## 實際使用時這樣做
+
+1. 先選自己拍攝或獲准編輯的照片，從適度的風格開始，確認重要細節仍符合你想保留的樣子。
+
+2. 有目的地調整明暗與色彩，不假設同一個預設能套好每張照片；加更多效果前，先回看目前的預覽。
+
+3. 分享前確認匯出選項與浮水印需求，只有需要一次解鎖的功能時，再決定是否購買。
+
+## 公開畫面與證據範圍
+
+公開調色畫面顯示咖啡店照片與 HSL 控制項，是編輯介面示例，不是獨立量測的前後對照測試。
+
+這是 App Store 截圖，不是可下載的匯出範例，也不是獨立效能測試。
+
+## 先知道它不適合什麼
+
+- 參考風格不保證在不同光線、相機或螢幕上得到完全一致的顏色。
+
+- 編輯後的照片不能證明人物外貌或事件原貌，應依分享情境清楚使用。
+
+## 何時用簡單的方法就夠了
+
+只想裁切或微調亮度時，Apple「照片」可能就夠了；需要特定風格預覽與細部色彩控制，再考慮 PhotoCream。
+
+## 決定前的常見問題
+
+### 預覽風格本身就是付費功能嗎？
+
+不是。免費的編輯與預覽流程，和一次解鎖後的去浮水印、高級套件，是不同的付費界線。
+
+### 照片會上傳到外部服務處理嗎？
+
+公開 App 說明載明照片在裝置上處理；購買功能仍會使用 Apple 的商店服務。
+
+### 哪裡可以買到正確的 App？
+
+請使用本頁的 App Store 按鈕前往 PhotoCream Pro，先下載使用免費核心；需要擴充時，再於 App 內選擇一次性解鎖。確認前，Apple 購買畫面會顯示當地的實際解鎖價格。
+
+## 接下來可能要處理的事
+
+- [Mask My File 免費預覽，匯出如何解鎖？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/maskmyfile-verify-a-redacted-client-file-before-sharing.html)
+
+[購買指南](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/index.html)
+
+[PhotoCream 免費預覽，去浮水印才需要解鎖](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/photocream-preview-a-consistent-photo-color-style.html)
+</description></item><item><title>Mask My File 免費預覽，匯出如何解鎖？</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/maskmyfile-verify-a-redacted-client-file-before-sharing.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/maskmyfile-verify-a-redacted-client-file-before-sharing.html</guid><description># Mask My File 免費預覽，匯出如何解鎖？
+
+本文由這些 App 的開發者 Lumi Studio 撰寫，並非獨立評測或排名。圖片取自公開 App Store 示範畫面，不代表使用者的實際成效。
+
+正在評估 Mask My File 是否適合反覆處理客戶檔案？先看清理副本示例與第一次匯出的免費界線。
+
+## 可以檢查的結果
+
+產生新的遮蔽副本，再重新開啟檢查；不是只在原始資訊上方放一個仍可編輯的形狀。
+
+![公開畫面與證據範圍](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/b5/a4/1bb5a416-1059-1f11-de07-537778df5cae/06-verified-output.png/320x480bb.jpg)
+
+公開 App Store 示範畫面，不代表使用者成效。
+
+證據查核日期: 2026-09-11 · App 版本: 1.0.3
+
+## 下載或購買前先看
+
+任何檔案皆可免費預覽，首次真實清理匯出免費；後續匯出需要一次購買。
+
+匯入、偵測、標記與預覽可免費使用，第一次真實檔案清理匯出也免費。 之後可選擇一次解鎖，使用後續驗證輸出與解鎖後的批次處理流程。 不採訂閱制；實際在地價格以 Apple 購買畫面為準，本文不寫死價格。
+
+[在 App Store 免費下載](https://apps.apple.com/tw/app/id6792850916?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## 實際使用時這樣做
+
+1. 先決定收件人真正需要哪些欄位，逐項檢查偵測結果，手動補上漏掉的區域或指定文字。OCR 是輔助，不是最後的判斷。
+
+2. 圖片與 PDF 應使用永久實心遮蔽或移除，不要以模糊效果或仍能還原底層內容的覆蓋物代替；文字與結構化檔案則有不同的遮罩選項。
+
+3. 建立新副本後，重新開啟真正要寄出的檔案，檢查相關頁面；格式允許時，再搜尋或複製原本要移除的文字，確認沒有留下。
+
+4. 確認收件對象，分享清理後的副本而非原檔。原始資料也只在仍有需要且允許保存時另外保留。
+
+## 公開畫面與證據範圍
+
+公開的 Private Ready 完成畫面顯示 App 驗證步驟後的實心遮蔽示例；這個標記不是法律合規或獨立資安認證。
+
+這是 App Store 截圖，不是可下載的匯出範例，也不是獨立效能測試。
+
+## 先知道它不適合什麼
+
+- 自動偵測可能漏掉敏感資料，完成標記不能取代你的檢查，也不能證明符合法規。
+
+- 中繼資料能否移除取決於檔案格式；App 不會清掉已寄出的副本、遠端備份、VPN 或網路流量中的資訊。
+
+## 何時用簡單的方法就夠了
+
+如果桌面 PDF 編輯器已提供永久遮蔽與輸出驗證，繼續使用它可能更省事；不要把畫一個形狀當成真正的遮蔽功能。
+
+## 決定前的常見問題
+
+### 購買前，可以先檢查自己的檔案嗎？
+
+可以。匯入、偵測、手動選取與預覽都免費，也包含一次真實清理匯出；之後的匯出才需要一次性解鎖。
+
+### 這張圖能證明所有敏感欄位都被找到了嗎？
+
+不能。圖片只展示範例檔案的公開輸出介面；哪些資訊該移除，仍要由你判斷，並檢查自己的實際匯出副本。
+
+### 哪裡可以買到正確的 App？
+
+請使用本頁的 App Store 按鈕前往 Mask My File，先下載使用免費核心；需要擴充時，再於 App 內選擇一次性解鎖。確認前，Apple 購買畫面會顯示當地的實際解鎖價格。
+
+## 接下來可能要處理的事
+
+- [G+Money 買斷前，先看外幣支出摘要](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/gmoney-reconcile-multi-currency-spending.html)
+
+[購買指南](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/index.html)
+
+[Mask My File 免費預覽，匯出如何解鎖？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/maskmyfile-verify-a-redacted-client-file-before-sharing.html)
+</description></item><item><title>CalDaily Premium 升級前，先看免費界線</title><link>https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/caldaily-remember-what-a-bill-split-result-means.html</link><guid isPermaLink="true">https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/caldaily-remember-what-a-bill-split-result-means.html</guid><description># CalDaily Premium 升級前，先看免費界線
+
+本文由這些 App 的開發者 Lumi Studio 撰寫，並非獨立評測或排名。圖片取自公開 App Store 示範畫面，不代表使用者的實際成效。
+
+先看 CalDaily 的已命名結果，再區分免費基本功能與不限次數的進階工具，不為用不到的功能升級。
+
+## 可以檢查的結果
+
+替計算結果留下名稱與類型，之後能找到對應的事情，不必從一個孤單的數字重新推算。
+
+![公開畫面與證據範圍](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/d6/1a/5cd61a15-ff94-ecf3-677c-354ba67846c8/05.jpg/320x480bb.jpg)
+
+公開 App Store 示範畫面，不代表使用者成效。
+
+證據查核日期: 2026-09-11 · App 版本: 1.0.2
+
+## 下載或購買前先看
+
+基本計算、歷史與小工具免費；各進階工具免費三次，Premium 再解鎖更多主題與不限次數工具。
+
+基本計算、歷史、互動式計算機小工具與預設主題免費；每項進階工具可免費完成三次成功計算。 可選擇一次購買 Premium，解鎖其他主題與不限次數的進階工具。 不採訂閱制；實際在地價格以 Apple 購買畫面為準，本文不寫死價格。
+
+[在 App Store 免費下載](https://apps.apple.com/tw/app/id6794178671?pt=118326163&amp;ct=geo_pick&amp;mt=8)
+
+## 實際使用時這樣做
+
+1. 用計算機或合適的工具完成計算，先確認輸入值；聚餐分帳尤其要核對總額與人數。
+
+2. 趁情境還記得，替結果加上有意義的名稱與類型。
+
+3. 之後依名稱、日期或工具回找歷史。把它當成輸入與計算的紀錄，而不是收據或付款證明。
+
+## 公開畫面與證據範圍
+
+公開結果頁顯示一筆附名稱與類型的聚餐計算，是紀錄功能的示例，不是銀行交易或付款證明。
+
+這是 App Store 截圖，不是可下載的匯出範例，也不是獨立效能測試。
+
+## 先知道它不適合什麼
+
+- 保存的結果仍取決於公式與輸入；貸款、日期、稅率等實用計算，不是專業建議。
+
+- 此處證據限於 App 內的已儲存結果流程，不是小工具反應速度的實測。
+
+## 何時用簡單的方法就夠了
+
+偶爾分一次帳時，一般計算機加上一則筆記就可能足夠；常常需要回找有情境的計算紀錄時，再考慮專用工具。
+
+## 決定前的常見問題
+
+### 每按一次計算，都會扣掉免費次數嗎？
+
+不會。基本計算與歷史不消耗進階工具額度；每項進階工具先有三次成功結果的免費額度，再進入一次性解鎖的界線。
+
+### 保存結果會直接扣款或幫我轉帳嗎？
+
+不會。這是計算紀錄，不會發起銀行轉帳、結清帳單或認證付款。
+
+### 哪裡可以買到正確的 App？
+
+請使用本頁的 App Store 按鈕前往 CalDaily: Calculator &amp; Themes，先下載使用免費核心；需要擴充時，再於 App 內選擇一次性解鎖。確認前，Apple 購買畫面會顯示當地的實際解鎖價格。
+
+## 接下來可能要處理的事
+
+- [G+Money 買斷前，先看外幣支出摘要](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/gmoney-reconcile-multi-currency-spending.html)
+
+- [HoursTag 付費下載，多了哪些工時換算功能？](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/hourstag-see-a-purchase-in-work-hours.html)
+
+[購買指南](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/index.html)
+
+[CalDaily Premium 升級前，先看免費界線](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/caldaily-remember-what-a-bill-split-result-means.html)
+</description></item></channel></rss>

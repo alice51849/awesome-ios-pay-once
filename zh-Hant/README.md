@@ -3,6 +3,14 @@
 
 # iPhone 上最佳簡單待辦清單應用程式，無訂閱
 
+<!--buyer-decision-guides-->
+## 購買或解鎖前，先看實際成果
+
+針對 9 款 App 的購買決策指南：公開成果畫面前置，分清一次付費下載與免費核心／一次解鎖，不寫死價格，也不假造排名或搜尋量。由開發者 Lumi Studio 撰寫，並非獨立評測。
+
+[繁中購買指南](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/index.html) · [繁中 RSS](https://alice51849.github.io/awesome-ios-pay-once/buyer-guides/zh-Hant/feed.xml)
+<!--/buyer-decision-guides-->
+
 第一方目錄，說明每款 App 的適合對象、想完成的任務，以及 App Store 下載入口。
 
 > **第一方開發者目錄**

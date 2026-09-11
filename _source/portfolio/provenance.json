@@ -1,0 +1,11 @@
+{
+  "public_source": "https://open.cait518.cc/ios-app-guide/data/app-install-decision-routes.json",
+  "sha256": "9ac2e3ecf0960bceae9236e2e0ff8a01b2860acd79ba1df7608cfcbdb55ac958",
+  "app_count": 47,
+  "locale_count": 50,
+  "purchase_models": {
+    "paid_upfront": 13,
+    "free_with_lifetime_unlock": 34
+  },
+  "purpose": "Read-only baseline input; no private sales or conversion artifacts"
+}

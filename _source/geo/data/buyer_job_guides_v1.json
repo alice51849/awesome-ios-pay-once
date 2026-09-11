@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "scope": "first_party_outreach_only",
+  "traffic_scope": "buyer_decision_only",
+  "locales": ["en-US", "zh-Hant"],
+  "baseline": {
+    "app_count": 47,
+    "locale_count": 50,
+    "paid_upfront": 13,
+    "free_with_lifetime_unlock": 34
+  },
+  "excluded_conversion_apps": [
+    "mochi", "lumibopomofo", "scanto", "aim990", "lumiweather",
+    "mochidonestamp", "cyca", "unblurry", "battai", "notesstudio100", "onepageppt"
+  ],
+  "apps": [
+    {
+      "key": "gmoney",
+      "app_store_id": "6755782939",
+      "name": "G+Money",
+      "intent_name": "G+Money",
+      "exclude_intents": ["currency_rates_today", "general_budget_advice", "free_currency_calculator"],
+      "purchase_model": "paid_upfront",
+      "job": "reconcile-multi-currency-spending",
+      "category": "FinanceApplication",
+      "related": ["hourstag", "caldaily"],
+      "devto": false
+    },
+    {
+      "key": "hourstag",
+      "app_store_id": "6754218117",
+      "name": "HoursTag: Hours to Buy",
+      "intent_name": "HoursTag",
+      "exclude_intents": ["salary_statistics", "payroll_calculator", "generic_saving_advice"],
+      "purchase_model": "paid_upfront",
+      "job": "see-a-purchase-in-work-hours",
+      "category": "FinanceApplication",
+      "related": ["gmoney", "caldaily"],
+      "devto": false
+    },
+    {
+      "key": "lumimath",
+      "app_store_id": "6778269699",
+      "name": "Lumi Math Planet: Explorer",
+      "intent_name": "Lumi Math Planet",
+      "exclude_intents": ["free_printable_worksheets", "contest_answers", "general_parenting_advice"],
+      "purchase_model": "free_with_lifetime_unlock",
+      "job": "choose-the-next-visual-math-practice",
+      "category": "EducationalApplication",
+      "related": ["lumibopomofopro", "lumimissionpro"],
+      "devto": false
+    },
+    {
+      "key": "lumibopomofopro",
+      "app_store_id": "6775773117",
+      "name": "Lumi Bopomofo Pro: Zhuyin",
+      "intent_name": "Lumi Bopomofo Pro",
+      "exclude_intents": ["free_zhuyin_chart", "hanyu_pinyin_course", "school_readiness_promises"],
+      "purchase_model": "paid_upfront",
+      "job": "listen-and-trace-zhuyin-at-home",
+      "category": "EducationalApplication",
+      "related": ["lumimath", "lumimissionpro"],
+      "devto": false
+    },
+    {
+      "key": "lumimissionpro",
+      "app_store_id": "6779745474",
+      "name": "Lumi Mission Planet Pro",
+      "intent_name": "Lumi Mission Planet Pro",
+      "exclude_intents": ["generic_chore_ideas", "behaviour_treatment", "printable_sticker_charts"],
+      "purchase_model": "paid_upfront",
+      "job": "keep-a-visible-family-routine-record",
+      "category": "EducationalApplication",
+      "related": ["tripplanet", "lumimath"],
+      "devto": false
+    },
+    {
+      "key": "tripplanet",
+      "app_store_id": "6787193643",
+      "name": "Trip Planet: Kids Quest",
+      "intent_name": "Trip Planet",
+      "exclude_intents": ["free_airport_activities", "flight_status", "general_travel_advice"],
+      "purchase_model": "free_with_lifetime_unlock",
+      "job": "give-airport-waiting-a-small-mission",
+      "category": "TravelApplication",
+      "related": ["lumimissionpro"],
+      "devto": false
+    },
+    {
+      "key": "photocream",
+      "app_store_id": "6781808054",
+      "name": "PhotoCream Pro",
+      "intent_name": "PhotoCream",
+      "exclude_intents": ["free_wallpapers", "general_photography_tips", "unlimited_free_premium_exports"],
+      "purchase_model": "free_with_lifetime_unlock",
+      "job": "preview-a-consistent-photo-color-style",
+      "category": "PhotographyApplication",
+      "related": ["maskmyfile"],
+      "devto": false
+    },
+    {
+      "key": "maskmyfile",
+      "app_store_id": "6792850916",
+      "name": "Mask My File",
+      "intent_name": "Mask My File",
+      "exclude_intents": ["generic_privacy_news", "vpn_advice", "compliance_certification"],
+      "purchase_model": "free_with_lifetime_unlock",
+      "job": "verify-a-redacted-client-file-before-sharing",
+      "category": "UtilitiesApplication",
+      "related": ["gmoney"],
+      "devto": true
+    },
+    {
+      "key": "caldaily",
+      "app_store_id": "6794178671",
+      "name": "CalDaily: Calculator & Themes",
+      "intent_name": "CalDaily",
+      "exclude_intents": ["homework_answers", "free_web_calculator", "loan_advice"],
+      "purchase_model": "free_with_lifetime_unlock",
+      "job": "remember-what-a-bill-split-result-means",
+      "category": "UtilitiesApplication",
+      "related": ["gmoney", "hourstag"],
+      "devto": false
+    }
+  ]
+}
