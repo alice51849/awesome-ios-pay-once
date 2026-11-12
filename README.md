@@ -42,6 +42,7 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 - [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Offline document scanner with OCR and Face ID lock; nothing leaves your device. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/scanto.html)
 - [CV Desk](https://apps.apple.com/us/app/id6781337213?pt=118326163&ct=gh_aipo_en_us&mt=8) - On-device ATS resume score and keyword matcher; export clean, watermark-free PDFs. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/cvdesk.html)
 - [Sono Note](https://apps.apple.com/us/app/id6782139553?pt=118326163&ct=gh_aipo_en_us&mt=8) - On-device voice recording, transcription, summary, and action items. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/sononote.html)
+- [Earshot AI](https://apps.apple.com/us/app/id6830550013) - Pay-once, on-device iPhone translation with local history and bilingual PDF export. HY model licence excludes use in the EU, UK and South Korea, including travel. Unavailable in mainland China's App Store.
 - [Mochi](https://apps.apple.com/us/app/id6785004775?pt=118326163&ct=gh_aipo_en_us&mt=8) - Cute, cozy checklist with 100 skins and interactive widgets; free base, one-time unlock. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/mochi.html)
 - [LockHour Pro](https://apps.apple.com/us/app/id6780107485?pt=118326163&ct=gh_aipo_en_us&mt=8) - Timed hard-blocking of distracting apps via Apple Screen Time; Hard Mode prevents early exit. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/lockhour.html)
 
