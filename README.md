@@ -37,6 +37,7 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 
 ## Documents & Work
 
+- [Scope Tally](https://apps.apple.com/app/scope-tally/id6833438240) - Record extra client requests and create PDF proposals; free for two active projects, with a one-time unlock for unlimited projects and business branding.
 - [PDF Expert](https://apps.apple.com/app/id743974925) - PDF editor with a one-time purchase tier.
 - [GoodNotes](https://apps.apple.com/app/id1444383602) - Note-taking app offered as a one-time purchase.
 - [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Offline document scanner with OCR and Face ID lock; nothing leaves your device. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/scanto.html)
@@ -47,6 +48,7 @@ A curated list of iPhone and iPad apps you **buy once and own forever** — no s
 
 ## Money & Travel
 
+- [Suitcase Ledger](https://apps.apple.com/app/suitcase-ledger/id6833095591) - Packing lists by traveller with six templates; free for two saved trips, with a one-time unlock for unlimited trips, trip duplication, and PDF export.
 - [Trip Boss](https://apps.apple.com/app/id6449498509) - Travel expense manager with pay-once pricing.
 - [G+Money](https://apps.apple.com/us/app/id6755782939?pt=118326163&ct=gh_aipo_en_us&mt=8) - Multi-currency, offline expense tracker organized by trip; no bank linking, CSV export. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/gmoney.html)
 - [HoursTag](https://apps.apple.com/app/id6754218117) - Reframes any price as hours of work at your wage to curb impulse spending. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/hourstag.html)
